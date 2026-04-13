@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20👋,%20I'm%20Veeranna&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Technical%20Product%20Manager%20|%20Engineering%20Leader&descSize=18&descColor=ffffff&descAlignY=55" width="100%"/>
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=2E86C1&center=true&vCenter=true&repeat=true&width=900&height=100&lines=15%2B+Years+%7C+SAP+%7C+IBM+%7C+Bosch+%7C+Fraunhofer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=2E86C1&center=true&vCenter=true&repeat=true&width=900&height=100&lines=SAP+%7C+IBM+%7C+Bosch+%7C+Fraunhofer" alt="Typing SVG" />
 </p>
 
 <h2 align="center">I bridge the gap between Product Vision and Engineering Execution — I don't just define what to build, I know how to build it.</h2>
@@ -34,18 +34,55 @@
 ---
 
 ## 🧑‍💼 About Me
+Driving AI-powered products and enterprise SaaS platforms from concept to global scale.
 
-AI Technical Product Manager & Development Engineer with 15+ years at SAP, IBM, and Bosch.
+Led GTM strategy for B2B SaaS/enterprise platforms generating **$30M+ ARR** and influencing **$42M ARR**. Shipped **14 major features in 12 months** with a 34% adoption increase and 52% faster onboarding. IBM Germany R&D Fellow researching hybrid cloud security (published white paper) and contributor to Fraunhofer Institutes across IoT, smart grids, and manufacturing analytics.
 
-Product Research & Management: Led GTM strategy for B2B SaaS/enterprise platforms — $30M+ ARR generated, $42M ARR influenced. Shipped 14 features in 12 months, 34% adoption increase, 52% faster onboarding. IBM Germany R&D Fellow (hybrid cloud security research & published white paper) and Fraunhofer Institutes contributor (IoT, smart grids, manufacturing analytics).
+## 🚀 Core Competencies
 
-Product Development Engineering: Java, Python, AI/ML, Cloud (AWS, GCP, IBM), DevOps (Docker, K8s, CI/CD). Built enterprise payment systems ($20M+ transactions) and AI supply chain platforms (X12/cXML). 37% faster dev cycles, 45% faster deployments, 1,200+ staff hours saved via RPA. Production deployments for Volkswagen, BMW, Sony, ThyssenKrupp.
+### 🧠 Product & Strategy
+`Technical Product Management` `AI Product Management` `Product Ownership`
+`Portfolio Management` `Product Vision & Strategy` `Roadmap Prioritization`
 
-🎓 M.Sc. Research — Computer & System Engineering, TU Ilmenau (Germany) | B.E. and Diploma — Electronics & Computer Engineering, VTU (India)
+### 📣 Go-to-Market & Growth
+`Go-to-Market Strategy` `Customer Advocacy` `Stakeholder Engagement`
+
+### ⚙️ Execution & Delivery
+`Agile/Scrum` `Program Management` `Risk Mitigation`
+`Usability Testing` `Data-Driven Decision Making`
 
 ---
 
-## 🔍 Quick Snapshot for Hiring Managers
+### 💻 Technical Stack
+
+| Layer | Technologies |
+|:---|:---|
+| **Languages** | Java · Python · SQL |
+| **AI / ML** | AI Agents · LLMs · RAG · RPA · Machine Learning |
+| **Cloud** | AWS · GCP · IBM Cloud |
+| **DevOps** | Docker · Kubernetes · CI/CD |
+| **Integration** | EDI X12 · cXML · REST · SOAP |
+| **Platforms** | SAP S/4HANA · SAP Business Network · Salesforce |
+
+#### ⚡ Engineering Impact
+- 🏦 Built enterprise payment systems processing **$20M+ transactions**
+- 🤖 Saved **1,200+ staff hours** via RPA automation
+- 🛠️ Achieved **37% faster** development cycles & **45% faster** deployments
+- 🚗 Production deployments for **Volkswagen, BMW, Sony, ThyssenKrupp**
+
+---
+
+### 🏗️ Domain Expertise
+
+| Area | Domains |
+|:---|:---|
+| **Enterprise** | ERP (S/4HANA) · CRM (Sales & Service) · HCM |
+| **Supply Chain** | SAP Business Network · SCC · EDI · eCommerce |
+| **AI & Automation** | AI/ML · RPA · Agentic AI · LLM Workflows |
+| **Cloud & Security** | Cloud Security · IoT · Asset Management |
+| **Analytics** | BI & Analytics · Data Engineering · Smart Grids |
+
+---
 
 | Category | Details |
 |:---|:---|
@@ -53,48 +90,32 @@ Product Development Engineering: Java, Python, AI/ML, Cloud (AWS, GCP, IBM), Dev
 | 🚚 **Relocation** | ✅ Open to Relocation |
 | 🏢 **Work Mode** | Onsite / Hybrid / Remote |
 
-| 🎓 **Education** | M.Sc. TU Ilmenau (Germany) · B.E. VTU (India) | Diploma DTE (India)
-| 📜 **Certifications** | PMI-ACP · CSPO · JAVA · Generative AI · Agentic AI · SAP CRM · SAP Ariba · SAP RPA |
-| 🏆 **Awards** | Spotlight Award · Employee of the Month · PM Scholarship |
+## 🎓 Education & Certifications
+
+| Type | Details | Institution |
+|:---|:---|:---|
+| 🎓 **M.Sc.** | Research in Computer & System Engineering (2015) | TU Ilmenau, Germany |
+| 🎓 **B.E.** | Electronics & Computer Engineering (2010) | VTU, India |
+| 📜 **PMI-ACP** | Agile Certified Professional | Project Management Institute |
+| 📜 **CSPO** | Certified Scrum Product Owner | Scrum Alliance |
+| 📜 **SAP CRM** | Sales & Service Cloud Certified | SAP America |
+| 📜 **SAP Ariba** | SCC Certified | SAP Ariba |
+| 📜 **SAP RPA** | Robotic Process Automation Certified | SAP America |
+
 
 ---
 
 ## 🔭 Currently Working On
-🏢 SAP Ariba — Senior Product Manager 📦 Supply Chain Collaboration (SBN) 🤖 AI Agent Automations & Agentic Features 📊 Integrated Business Planning with S/4HANA 🎯 Customer Success Advisory & Enterprise Onboarding
-
+🏢 SAP Ariba — Senior Product Manager -> 📦 SAP Business Network (SBN) 
+🏢 SAP CX — Senior Product Manager -> 📦 SAP Sales and Service Clouc (CRM) 
 
 ---
 
 ## 📈 Key Impact Metrics
-
-| Metric | Impact |
-|:---|:---|
-| 💰 Annual Recurring Revenue | **$30M+ Generated · $42M Influenced** |
-| 📦 Feature Delivery | **14 Major Features in 12 Months** |
-| 📈 Product Adoption Increase | **34%** |
-| 👥 Monthly Active Users Growth | **35%** |
-| ⏱️ Onboarding Time-to-Value | **Reduced by 52%** |
-| 🎯 Customer Satisfaction | **Boosted by 25%** |
-| 🔄 Sales Cycle Reduction | **20% Shorter** |
-| 🛠️ Development Time Reduction | **37% Faster** |
-| 🚀 Deployment Time Reduction | **45% Faster** |
-| 🤖 Manual Testing Reduction | **30% via AI** |
-| ✅ On-Time Delivery Rate | **96% with less than 1% Rollback** |
-| 👨‍💻 Enterprise Clients Served | **100+ including Luxottica, Bosch, Philips, TUI** |
-| 🌍 Users Impacted | **1M+ Globally** |
-| 📦 Products Shipped | **14 Major Features in 12 Months** |
-
----
-
-## 🛠️ Technical Skills & Expertise
-
-### 🎯 Product Management
-Technical Product Management · AI Product Management · Product Ownership · Portfolio Management Product Vision & Strategy · Roadmap Prioritization · Go-to-Market Strategy · Customer Advocacy Stakeholder Engagement · Usability Testing · Risk Mitigation · Agile/Scrum · Program Management
-
-
-### 🏗️ Domain Knowledge
-Supply Chain (SBN/SCC) · CRM (Sales & Service) · ERP (S/4HANA) · AI/ML · RPA eCommerce · Cloud Security · IoT · Asset Management · BI & Analytics · HCM
-
+- 🥇 **$72M+ Revenue Impact** across generated and influenced ARR
+- ⚡ **14 major features** delivered in a single year with 96% on-time rate
+- 🌐 **1M+ users** across 100+ enterprise clients globally
+- 🤖 **AI-driven** testing and automation reducing manual effort by 60% 
 
 ---
 
