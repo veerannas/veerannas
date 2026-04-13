@@ -138,144 +138,342 @@ Led GTM strategy for B2B SaaS/enterprise platforms generating **$30M+ ARR** and 
 
 ---
 
-### 💻 Languages and Tools
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> Languages & Tools
 
-<p align="left">
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="45" height="45"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45"/>
-  </a>
-  <a href="https://groovy-lang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/groovy/groovy-original.svg" alt="groovy" width="45" height="45"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" height="45"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45"/>
-  </a>
-  <a href="https://angular.io" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" width="45" height="45"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45"/>
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="45" height="45"/>
-  </a>
-  <a href="https://jquery.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg" alt="jquery" width="45" height="45"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="45" height="45"/>
-  </a>
-  <a href="https://spring.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="45" height="45"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="45" height="45"/>
-  </a>
-  <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="45" height="45"/>
-  </a>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="45" height="45"/>
-  </a>
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="45" height="45"/>
-  </a>
-  <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="45" height="45"/>
-  </a>
-  <a href="https://www.sap.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/sap/sap-icon.svg" alt="sap" width="45" height="45"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="45" height="45"/>
-  </a>
-  <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="45" height="45"/>
-  </a>
-  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="45" height="45"/>
-  </a>
-  <a href="https://www.ansible.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="45" height="45"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45"/>
-  </a>
-  <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="gitlab" width="45" height="45"/>
-  </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="45" height="45"/>
-  </a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="45" height="45"/>
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="45" height="45"/>
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="45" height="45"/>
-  </a>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="45" height="45"/>
-  </a>
-  <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="45" height="45"/>
-  </a>
-  <a href="https://spark.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" alt="spark" width="45" height="45"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="45" height="45"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45"/>
-  </a>
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="45" height="45"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>
-  </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="45" height="45"/>
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/>
-  </a>
-  <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="jira" width="45" height="45"/>
-  </a>
-  <a href="https://www.atlassian.com/software/confluence" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/atlassian/atlassian-icon.svg" alt="confluence" width="45" height="45"/>
-  </a>
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2E86C1&center=true&vCenter=true&repeat=true&width=600&height=45&lines=🛠️+My+Technology+Arsenal;⚡+Building+Enterprise+Solutions;🚀+From+Code+to+Cloud+to+AI" alt="Tech Stack Typing" />
+</div>
 
----
+<br/>
 
-## 🎓 Education & Certifications
+<!-- ═══════════════ PROGRAMMING LANGUAGES ═══════════════ -->
+<details open>
+<summary><h3>🔤 Programming Languages</h3></summary>
+<div align="center">
+<table>
+<tr>
+<td align="center" width="96">
+  <a href="https://www.java.com">
+    <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
+  </a>
+  <br><b>Java</b>
+</td>
+<td align="center" width="96">
+  <a href="https://www.python.org">
+    <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+  </a>
+  <br><b>Python</b>
+</td>
+<td align="center" width="96">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+  </a>
+  <br><b>JavaScript</b>
+</td>
+<td align="center" width="96">
+  <a href="https://www.typescriptlang.org/">
+    <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
+  </a>
+  <br><b>TypeScript</b>
+</td>
+<td align="center" width="96">
+  <a href="https://groovy-lang.org/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/groovy/groovy-original.svg" alt="Groovy" width="48" height="48" />
+  </a>
+  <br><b>Groovy</b>
+</td>
+<td align="center" width="96">
+  <a href="https://www.gnu.org/software/bash/">
+    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="48" height="48" />
+  </a>
+  <br><b>Bash</b>
+</td>
+</tr>
+</table>
+</div>
+</details>
 
-| Type | Details | Institution |
-|:---|:---|:---|
-| 🎓 **M.Sc.** | Research in Computer & System Engineering (2015) | TU Ilmenau, Germany |
-| 🎓 **B.E.** | Electronics & Computer Engineering (2010) | VTU, India |
-| 📜 **PMI-ACP** | Agile Certified Professional | Project Management Institute |
-| 📜 **CSPO** | Certified Scrum Product Owner | Scrum Alliance |
-| 📜 **SAP CRM** | Sales & Service Cloud Certified | SAP America |
-| 📜 **SAP Ariba** | SCC Certified | SAP Ariba |
-| 📜 **SAP RPA** | Robotic Process Automation Certified | SAP America |
+<!-- ═══════════════ FRONTEND ═══════════════ -->
+<details open>
+<summary><h3>🎨 Frontend & UI</h3></summary>
+<div align="center">
+<table>
+<tr>
+<td align="center" width="96">
+  <a href="https://www.w3.org/html/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48" />
+  </a>
+  <br><b>HTML5</b>
+</td>
+<td align="center" width="96">
+  <a href="https://www.w3schools.com/css/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="48" height="48" />
+  </a>
+  <br><b>CSS3</b>
+</td>
+<td align="center" width="96">
+  <a href="https://angular.io">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="48" height="48" />
+  </a>
+  <br><b>Angular</b>
+</td>
+<td align="center" width="96">
+  <a href="https://reactjs.org/">
+    <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+  </a>
+  <br><b>React</b>
+</td>
+<td align="center" width="96">
+  <a href="https://getbootstrap.com">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="48" height="48" />
+  </a>
+  <br><b>Bootstrap</b>
+</td>
+<td align="center" width="96">
+  <a href="https://jquery.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg" alt="jQuery" width="48" height="48" />
+  </a>
+  <br><b>jQuery</b>
+</td>
+<td align="center" width="96">
+  <a href="https://www.figma.com/">
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="48" height="48" />
+  </a>
+  <br><b>Figma</b>
+</td>
+</tr>
+</table>
+</div>
+</details>
+
+<!-- ═══════════════ BACKEND & FRAMEWORKS ═══════════════ -->
+<details open>
+<summary><h3>⚙️ Backend & Frameworks</h3></summary>
+<div align="center">
+<table>
+<tr>
+<td align="center" width="96">
+  <a href="https://spring.io/">
+    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="48" height="48" />
+  </a>
+  <br><b>Spring</b>
+</td>
+<td align="center" width="96">
+  <a href="https://nodejs.org">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="48" height="48" />
+  </a>
+  <br><b>Node.js</b>
+</td>
+<td align="center" width="96">
+  <a href="https://kafka.apache.org/">
+    <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="Kafka" width="48" height="48" />
+  </a>
+  <br><b>Kafka</b>
+</td>
+</tr>
+</table>
+</div>
+</details>
+
+<!-- ═══════════════ CLOUD & DEVOPS ═══════════════ -->
+<details open>
+<summary><h3>☁️ Cloud & DevOps</h3></summary>
+<div align="center">
+<table>
+<tr>
+<td align="center" width="96">
+  <a href="https://aws.amazon.com">
+    <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" />
+  </a>
+  <br><b>AWS</b>
+</td>
+<td align="center" width="96">
+  <a href="https://cloud.google.com">
+    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" width="48" height="48" />
+  </a>
+  <br><b>GCP</b>
+</td>
+<td align="center" width="96">
+  <a href="https://azure.microsoft.com/">
+    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="48" height="48" />
+  </a>
+  <br><b>Azure</b>
+</td>
+<td align="center" width="96">
+  <a href="https://www.sap.com">
+    <img src="https://www.vectorlogo.zone/logos/sap/sap-icon.svg" alt="SAP" width="48" height="48" />
+  </a>
+  <br><b>SAP BTP</b>
+</td>
+<td align="center" width="96">
+  <a href="https://www.docker.com/">
+    <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
+  </a>
+  <br><b>Docker</b>
+</td>
+<td align="center" width="96">
+  <a href="https://kubernetes.io">
+    <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="65" height="65" />
+  </a>
+  <br><b>Kubernetes</b>
+</td>
+</tr>
+<tr>
+<td align="center" width="96">
+  <a href="https://www.jenkins.io">
+    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="48" height="48" />
+  </a>
+  <br><b>Jenkins</b>
+</td>
+<td align="center" width="96">
+  <a href="https://www.ansible.com/">
+    <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="Ansible" width="48" height="48" />
+  </a>
+  <br><b>Ansible</b>
+</td>
+<td align="center" width="96">
+  <a href="https://git-scm.com/">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" />
+  </a>
+  <br><b>Git</b>
+</td>
+<td align="center" width="96">
+  <a href="https://about.gitlab.com/">
+    <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="GitLab" width="48" height="48" />
+  </a>
+  <br><b>GitLab</b>
+</td>
+<td align="center" width="96">
+  <a href="https://github.com/">
+    <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
+  </a>
+  <br><b>GitHub</b>
+</td>
+<td align="center" width="96">
+  <a href="https://www.linux.org/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="48" height="48" />
+  </a>
+  <br><b>Linux</b>
+</td>
+</tr>
+</table>
+</div>
+</details>
+
+<!-- ═══════════════ AI / ML & DATA ═══════════════ -->
+<details open>
+<summary><h3>🤖 AI / ML & Data Science</h3></summary>
+<div align="center">
+<table>
+<tr>
+<td align="center" width="96">
+  <a href="https://www.tensorflow.org">
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="48" height="48" />
+  </a>
+  <br><b>TensorFlow</b>
+</td>
+<td align="center" width="96">
+  <a href="https://pytorch.org/">
+    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="48" height="48" />
+  </a>
+  <br><b>PyTorch</b>
+</td>
+<td align="center" width="96">
+  <a href="https://scikit-learn.org/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="48" height="48" />
+  </a>
+  <br><b>Scikit-learn</b>
+</td>
+<td align="center" width="96">
+  <a href="https://pandas.pydata.org/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="48" height="48" />
+  </a>
+  <br><b>Pandas</b>
+</td>
+<td align="center" width="96">
+  <a href="https://seaborn.pydata.org/">
+    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="48" height="48" />
+  </a>
+  <br><b>Seaborn</b>
+</td>
+</tr>
+</table>
+</div>
+</details>
+
+<!-- ═══════════════ BIG DATA ═══════════════ -->
+<details open>
+<summary><h3>📊 Big Data & Databases</h3></summary>
+<div align="center">
+<table>
+<tr>
+<td align="center" width="96">
+  <a href="https://hadoop.apache.org/">
+    <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="Hadoop" width="48" height="48" />
+  </a>
+  <br><b>Hadoop</b>
+</td>
+<td align="center" width="96">
+  <a href="https://spark.apache.org/">
+    <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" alt="Spark" width="48" height="48" />
+  </a>
+  <br><b>Spark</b>
+</td>
+<td align="center" width="96">
+  <a href="https://www.postgresql.org">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="48" height="48" />
+  </a>
+  <br><b>PostgreSQL</b>
+</td>
+<td align="center" width="96">
+  <a href="https://www.mysql.com/">
+    <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
+  </a>
+  <br><b>MySQL</b>
+</td>
+<td align="center" width="96">
+  <a href="https://www.sqlite.org/">
+    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="48" height="48" />
+  </a>
+  <br><b>SQLite</b>
+</td>
+</tr>
+</table>
+</div>
+</details>
+
+<!-- ═══════════════ TOOLS & PRODUCTIVITY ═══════════════ -->
+<details open>
+<summary><h3>🧰 Tools & Productivity</h3></summary>
+<div align="center">
+<table>
+<tr>
+<td align="center" width="96">
+  <a href="https://postman.com">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="48" height="48" />
+  </a>
+  <br><b>Postman</b>
+</td>
+<td align="center" width="96">
+  <a href="https://www.atlassian.com/software/jira">
+    <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="Jira" width="48" height="48" />
+  </a>
+  <br><b>Jira</b>
+</td>
+<td align="center" width="96">
+  <a href="https://www.atlassian.com/software/confluence">
+    <img src="https://www.vectorlogo.zone/logos/atlassian/atlassian-icon.svg" alt="Confluence" width="48" height="48" />
+  </a>
+  <br><b>Confluence</b>
+</td>
+</tr>
+</table>
+</div>
+</details>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
 ---
 
