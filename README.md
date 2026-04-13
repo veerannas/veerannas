@@ -38,6 +38,12 @@ Driving AI-powered products and enterprise SaaS platforms from concept to global
 
 Led GTM strategy for B2B SaaS/enterprise platforms generating **$30M+ ARR** and influencing **$42M ARR**. Shipped **14 major features in 12 months** with a 34% adoption increase and 52% faster onboarding. IBM Germany R&D Fellow researching hybrid cloud security (published white paper) and contributor to Fraunhofer Institutes across IoT, smart grids, and manufacturing analytics.
 
+| Category | Details |
+|:---|:---|
+| 📍 **Location** | Palo Alto, CA, USA |
+| 🚚 **Relocation** | ✅ Open to Relocation |
+| 🏢 **Work Mode** | Onsite / Hybrid / Remote |
+
 ## 🚀 Core Competencies
 
 ### 🧠 Product & Strategy
@@ -106,12 +112,6 @@ Led GTM strategy for B2B SaaS/enterprise platforms generating **$30M+ ARR** and 
 | **Analytics** | BI & Analytics · Data Engineering · Smart Grids |
 
 ---
-
-| Category | Details |
-|:---|:---|
-| 📍 **Location** | Palo Alto, CA, USA |
-| 🚚 **Relocation** | ✅ Open to Relocation |
-| 🏢 **Work Mode** | Onsite / Hybrid / Remote |
 
 ## 🎓 Education & Certifications
 
