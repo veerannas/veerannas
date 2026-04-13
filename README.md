@@ -44,6 +44,17 @@ Led GTM strategy for B2B SaaS/enterprise platforms generating **$30M+ ARR** and 
 | 🚚 **Relocation** | ✅ Open to Relocation |
 | 🏢 **Work Mode** | Onsite / Hybrid / Remote |
 
+### 🔭 Currently Working On
+
+<div align="center">
+
+| | Company | Role | Product |
+|:---:|:---|:---|:---|
+| <img src="https://img.shields.io/badge/SAP-0FAAFF?style=flat-square&logo=sap&logoColor=white" /> | **SAP Ariba** | Senior Product Manager | 📦 **SAP Business Network (SBN)** |
+| <img src="https://img.shields.io/badge/SAP-0FAAFF?style=flat-square&logo=sap&logoColor=white" /> | **SAP CX** | Senior Product Manager | 📦 **SAP Sales & Service Cloud (CRM)** |
+
+</div>
+
 ## 🚀 Core Competencies
 
 ### 🧠 Product & Strategy
@@ -124,16 +135,6 @@ Led GTM strategy for B2B SaaS/enterprise platforms generating **$30M+ ARR** and 
 | 📜 **SAP CRM** | Sales & Service Cloud Certified | SAP America |
 | 📜 **SAP Ariba** | SCC Certified | SAP Ariba |
 | 📜 **SAP RPA** | Robotic Process Automation Certified | SAP America |
-
-
----
-
-## 🔭 Currently Working On
-🏢 SAP Ariba — Senior Product Manager -> 📦 SAP Business Network (SBN) 
-🏢 SAP CX — Senior Product Manager -> 📦 SAP Sales and Service Clouc (CRM) 
-
----
-
 
 ---
 
