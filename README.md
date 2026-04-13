@@ -64,11 +64,43 @@ Led GTM strategy for B2B SaaS/enterprise platforms generating **$30M+ ARR** and 
 | **Integration** | EDI X12 · cXML · REST · SOAP |
 | **Platforms** | SAP S/4HANA · SAP Business Network · Salesforce |
 
-#### ⚡ Engineering Impact
-- 🏦 Built enterprise payment systems processing **$20M+ transactions**
-- 🤖 Saved **1,200+ staff hours** via RPA automation
-- 🛠️ Achieved **37% faster** development cycles & **45% faster** deployments
-- 🚗 Production deployments for **Volkswagen, BMW, Sony, ThyssenKrupp**
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Engineering Impact & Key Metrics
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+<table align="center">
+<tr>
+<td align="center" width="50%">
+
+### ⚡ Engineering Impact
+
+🏦 Built enterprise payment systems processing **$20M+ transactions**
+🤖 Saved **1,200+ staff hours** via RPA automation
+🛠️ Achieved **37% faster** dev cycles & **45% faster** deployments
+🚗 Production deployments for **Volkswagen, BMW, Sony, ThyssenKrupp**
+
+</td>
+<td align="center" width="50%">
+
+### 📈 Key Metrics
+
+🥇 **$72M+ Revenue Impact** across generated & influenced ARR
+⚡ **14 major features** delivered in one year — **96% on-time**
+🌐 **1M+ users** across **100+ enterprise clients** globally
+🤖 **AI-driven** testing & automation reducing manual effort by **60%**
+
+</td>
+</tr>
+</table>
+<div align="center">
+
+![Revenue](https://img.shields.io/badge/Revenue_Impact-$72M+-brightgreen?style=for-the-badge)
+![Users](https://img.shields.io/badge/Users-1M+-blue?style=for-the-badge)
+![Hours Saved](https://img.shields.io/badge/Hours_Saved-1200+-orange?style=for-the-badge)
+![Transactions](https://img.shields.io/badge/Transactions-$20M+-purple?style=for-the-badge)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
 ---
 
@@ -111,11 +143,6 @@ Led GTM strategy for B2B SaaS/enterprise platforms generating **$30M+ ARR** and 
 
 ---
 
-## 📈 Key Impact Metrics
-- 🥇 **$72M+ Revenue Impact** across generated and influenced ARR
-- ⚡ **14 major features** delivered in a single year with 96% on-time rate
-- 🌐 **1M+ users** across 100+ enterprise clients globally
-- 🤖 **AI-driven** testing and automation reducing manual effort by 60% 
 
 ---
 
