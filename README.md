@@ -1,7 +1,9 @@
 <!-- Header Animation -->
-<h1 align="center">Hi 👋, I'm Veeranna </h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E86C1&center=true&vCenter=true&width=900&lines=AI+Technical+Product+Manager;Product+Research+%26+Development+Engineer;15%2B+Years+%7C+SAP+%7C+IBM+%7C+Bosch;%2430M%2B+ARR+%7C+AI+%7C+Supply+Chain+%7C+SaaS" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20👋,%20I'm%20Veeranna&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Technical%20Product%20Manager%20|%20Engineering%20Leader&descSize=18&descColor=ffffff&descAlignY=55" width="100%"/>
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=2E86C1&center=true&vCenter=true&repeat=true&width=900&height=100&lines=15%2B+Years+%7C+SAP+%7C+IBM+%7C+Bosch+%7C+Fraunhofer" alt="Typing SVG" />
 </p>
 
 <h2 align="center">I bridge the gap between Product Vision and Engineering Execution — I don't just define what to build, I know how to build it.</h2>
