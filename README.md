@@ -239,25 +239,23 @@ Led GTM strategy for B2B SaaS/enterprise platforms generating **$30M+ ARR** and 
 <tr>
 <td valign="top" width="50%">
 
-**🏆 Awards & Recognition**
-
-🏅 **Spotlight Award** — SAP America / SAP Ariba
-🏅 **Employee of the Month** — SAP CX / Sonata / SPAN
-🏅 **Thank Award** — SAP Labs
-🏅 **Explore Possibilities Award** — SAP SE
-🏅 **Keep the Promise Certificate** — SAP America
-🎓 **Master's Germany Scholarship** — Fraunhofer Institute
-🎓 **Prime Minister Scholarship** — Indian Government
+<b>🏆 Awards & Recognition</b><br><br>
+🏅 <b>Spotlight Award</b> — SAP America / SAP Ariba<br>
+🏅 <b>Employee of the Month</b> — SAP CX / Sonata / SPAN<br>
+🏅 <b>Thank Award</b> — SAP Labs<br>
+🏅 <b>Explore Possibilities Award</b> — SAP SE<br>
+🏅 <b>Keep the Promise Certificate</b> — SAP America<br>
+🎓 <b>Master's Germany Scholarship</b> — Fraunhofer Institute<br>
+🎓 <b>Prime Minister Scholarship</b> — Indian Government
 
 </td>
 <td valign="top" width="50%">
 
-**📚 Publications & Research**
-
-📄 **E-Commerce Services Platform** — Entrepreneurial Product
-📄 **Hybrid Cloud Security Concepts** — IBM Germany R&D
-📄 **E-Learning & Assessment Systems** — Fraunhofer IDMT
-📄 **Internet of Things OROP System** — Fraunhofer IOSB
+<b>📚 Publications & Research</b><br><br>
+📄 <b>E-Commerce Services Platform</b> — Entrepreneurial Product<br>
+📄 <b>Hybrid Cloud Security Concepts</b> — IBM Germany R&D<br>
+📄 <b>E-Learning & Assessment Systems</b> — Fraunhofer IDMT<br>
+📄 <b>Internet of Things OROP System</b> — Fraunhofer IOSB
 
 </td>
 </tr>
