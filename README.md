@@ -70,17 +70,6 @@ Led GTM strategy for B2B SaaS/enterprise platforms generating **$30M+ ARR** and 
 
 ---
 
-### 💻 Technical Stack
-
-| Layer | Technologies |
-|:---|:---|
-| **Languages** | Java · Python · SQL |
-| **AI / ML** | AI Agents · LLMs · RAG · RPA · Machine Learning |
-| **Cloud** | AWS · GCP · IBM Cloud |
-| **DevOps** | Docker · Kubernetes · CI/CD |
-| **Integration** | EDI X12 · cXML · REST · SOAP |
-| **Platforms** | SAP S/4HANA · SAP Business Network · Salesforce |
-
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Impact at a Glance
 <div align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
