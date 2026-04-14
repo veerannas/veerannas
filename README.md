@@ -213,7 +213,7 @@ Driving AI-powered products and enterprise SaaS platforms from concept to global
 
 <h3 align="center">🎓 Education & Certifications</h3>
 
-| | Degree / Certification | Institution |
+| Degree / Certification | Institution |
 |:---|:---|
 | 🎓 **M.Sc.** Computer & System Engineering | TU Ilmenau, Germany |
 | 🎓 **B.E.** Electronics & Computer Engineering | VTU, India |
@@ -228,7 +228,7 @@ Driving AI-powered products and enterprise SaaS platforms from concept to global
 
 <h3 align="center">🏅 Awards & Recognition</h3>
 
-| | Award | Organization |
+| Award | Organization |
 |:---|:---|
 | 🥇 **Spotlight Award** | SAP America |
 | 🥇 **Employee of the Month** | SAP CX / Sonata |
