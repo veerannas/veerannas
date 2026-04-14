@@ -31,7 +31,15 @@
   <img src="https://img.shields.io/github/stars/veerannas?label=Total+Stars&style=for-the-badge&color=yellow" alt="Stars"/>
 </p>
 
----
+<div align="center">
+
+![Revenue](https://img.shields.io/badge/$72M+-Revenue_Impact-brightgreen?style=for-the-badge)
+![Users](https://img.shields.io/badge/1M+-Global_Users-blue?style=for-the-badge)
+![Speed](https://img.shields.io/badge/45%25-Faster_Deploys-orange?style=for-the-badge)
+![Automation](https://img.shields.io/badge/60%25-Less_Manual_Effort-purple?style=for-the-badge)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
 ## 👤 About Me
 Driving AI-powered products and enterprise SaaS platforms from concept to global scale.
