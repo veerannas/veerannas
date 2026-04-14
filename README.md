@@ -36,14 +36,12 @@
 ## 🧑‍💼 About Me
 Driving AI-powered products and enterprise SaaS platforms from concept to global scale.
 
-
-
 | Category | Details |
 |:---|:---|
 | 📍 **Location** | Palo Alto, CA, USA |
 | 🏢 **Work Mode** | Onsite / Hybrid / Remote |
 
-| | Company | Role | Product |
+| Company | Role | Product |
 |:---:|:---|:---|
 | **SAP Ariba** | Senior Product Manager | 📦 **SAP Business Network (SBN)** |
 | **SAP CX** | Senior Product Manager | 📦 **SAP Sales & Service Cloud (CRM)** |
@@ -52,20 +50,19 @@ Driving AI-powered products and enterprise SaaS platforms from concept to global
 
 ## 🚀 Core Competencies
 
-### 🧠 Product Management
+## 🧠 Product Management
 `Technical Product Management` `AI Product Management` `Product Ownership` `Portfolio Management` `Product Vision & Strategy` `Roadmap Prioritization` `Go-to-Market Strategy` `Customer Advocacy` `Stakeholder Engagement` `Agile/Scrum` `Program Management` `Risk Mitigation` `Usability Testing` `Data-Driven Decision Making`
 
-### 📣 Go-to-Market & Growth
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="24"> Software Development
 
 <table>
 <tr>
 <td valign="top" width="50%">
 
-| **☕ Java Ecosystem** |
+**☕ Java Ecosystem**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Java EE](https://img.shields.io/badge/Java_EE-007396?style=flat-square&logo=openjdk&logoColor=white) ![Java SE](https://img.shields.io/badge/Java_SE-007396?style=flat-square&logo=openjdk&logoColor=white) ![Java ME](https://img.shields.io/badge/Java_ME-007396?style=flat-square&logo=openjdk&logoColor=white) ![JavaFX](https://img.shields.io/badge/JavaFX-3776AB?style=flat-square&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![Spring MVC](https://img.shields.io/badge/Spring_MVC-6DB33F?style=flat-square&logo=spring&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white) ![Struts](https://img.shields.io/badge/Struts-D22128?style=flat-square&logo=apache&logoColor=white) ![Grails](https://img.shields.io/badge/Grails-FEB672?style=flat-square&logo=grails&logoColor=black) ![Groovy](https://img.shields.io/badge/Groovy-4298B8?style=flat-square&logo=apachegroovy&logoColor=white) ![Servlets](https://img.shields.io/badge/Servlets-007396?style=flat-square&logo=openjdk&logoColor=white) ![JSP](https://img.shields.io/badge/JSP-007396?style=flat-square&logo=openjdk&logoColor=white) ![JSF](https://img.shields.io/badge/JSF-007396?style=flat-square&logo=openjdk&logoColor=white) ![JDBC](https://img.shields.io/badge/JDBC-007396?style=flat-square&logo=openjdk&logoColor=white) ![JMS](https://img.shields.io/badge/JMS-007396?style=flat-square&logo=openjdk&logoColor=white) ![JAXB](https://img.shields.io/badge/JAXB-007396?style=flat-square&logo=openjdk&logoColor=white) ![Swing](https://img.shields.io/badge/Swing-007396?style=flat-square&logo=openjdk&logoColor=white) ![AWT](https://img.shields.io/badge/AWT-007396?style=flat-square&logo=openjdk&logoColor=white) ![Multi-threading](https://img.shields.io/badge/Multi--threading-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Design Patterns](https://img.shields.io/badge/Design_Patterns-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
-|
+
 </td>
 <td valign="top" width="50%">
 
