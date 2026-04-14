@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20👋,%20I'm%20Veeranna&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Technical%20Product%20Manager%20|%20Engineering%20Leader&descSize=18&descColor=ffffff&descAlignY=55" width="100%"/>
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=2E86C1&center=true&vCenter=true&repeat=true&width=900&height=100&lines=SAP+%7C+IBM+%7C+Bosch+%7C+Fraunhofer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=2E86C1&center=true&vCenter=true&repeat=true&width=900&height=50&lines=SAP+%7C+IBM+%7C+Bosch+%7C+Fraunhofer" alt="Typing SVG" />
 </p>
 
 <h2 align="center">I bridge the gap between Product Vision and Engineering Execution — I don't just define what to build, I know how to build it.</h2>
@@ -127,6 +127,11 @@ Driving AI-powered products and enterprise SaaS platforms from concept to global
 
 ![REST](https://img.shields.io/badge/RESTful-009688?style=flat-square&logo=fastapi&logoColor=white) ![SOAP](https://img.shields.io/badge/SOAP-5A29E4?style=flat-square&logo=webmoney&logoColor=white) ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white) ![gRPC](https://img.shields.io/badge/gRPC-244C5A?style=flat-square&logo=google&logoColor=white) ![Web Services](https://img.shields.io/badge/Web_Services-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+  
 **🧰 Tools & Productivity**
 
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white) ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) ![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=intellijidea&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white) ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
@@ -138,7 +143,6 @@ Driving AI-powered products and enterprise SaaS platforms from concept to global
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
-
 
 ---
 
