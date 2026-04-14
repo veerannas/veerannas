@@ -33,7 +33,7 @@
 
 ---
 
-## 🧑‍💼 About Me
+## 👤 About Me
 Driving AI-powered products and enterprise SaaS platforms from concept to global scale.
 
 | Category | Details |
@@ -46,12 +46,14 @@ Driving AI-powered products and enterprise SaaS platforms from concept to global
 | **SAP Ariba** | Senior Product Manager | 📦 **SAP Business Network (SBN)** |
 | **SAP CX** | Senior Product Manager | 📦 **SAP Sales & Service Cloud (CRM)** |
 
+---
+
 ## 🚀 Core Competencies
 
-## 🧠 Product Management
+### 🧠 Product Management
 `Technical Product Management` `AI Product Management` `Product Ownership` `Portfolio Management` `Product Vision & Strategy` `Roadmap Prioritization` `Go-to-Market Strategy` `Customer Advocacy` `Stakeholder Engagement` `Agile/Scrum` `Program Management` `Risk Mitigation` `Usability Testing` `Data-Driven Decision Making`
 
-## 🏗️ Domain Expertise
+### 🏗️ Domain Expertise
 
 <table>
 <tr>
@@ -69,7 +71,7 @@ Driving AI-powered products and enterprise SaaS platforms from concept to global
 
 | Area | Domains |
 |:---|:---|
-| **Software Engineering** | Software Development · Product Support · Web & Mobile Development |
+| **Software Engineering** | Software Development · Product Support · Web & Mobile Dev |
 | **Content & Learning** | CMS · e-Learning · e-Assessment |
 | **Analytics & Quality** | BI Reporting & Analytics · Performance Testing · Build & Migration |
 | **Data & Infrastructure** | Data Engineering · Smart Grids · Big Data |
@@ -78,7 +80,9 @@ Driving AI-powered products and enterprise SaaS platforms from concept to global
 </tr>
 </table>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="24"> Software Development
+---
+
+## 💻 Software Development
 
 <table>
 <tr>
@@ -165,7 +169,7 @@ Driving AI-powered products and enterprise SaaS platforms from concept to global
 
 ---
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Impact at a Glance
+## 📈 Impact at a Glance
 
 <div align="center">
 
@@ -177,7 +181,7 @@ Driving AI-powered products and enterprise SaaS platforms from concept to global
 | 🚀 **Feature Velocity** | **14 major features** in one year — **96% on-time** |
 | ⚡ **Engineering Speed** | **37% faster** dev cycles · **45% faster** deployments |
 | 🤖 **Automation** | **1,200+ staff hours saved** · **60% less** manual effort via RPA & AI testing |
-| 🚗 **Enterprise Clients** | Volkswagen · BMW · Sony · ThyssenKrupp |
+| 🏢 **Enterprise Clients** | Volkswagen · BMW · Sony · ThyssenKrupp |
 
 </div>
 
@@ -207,35 +211,42 @@ Driving AI-powered products and enterprise SaaS platforms from concept to global
 
 ---
 
-## 🏆 Awards & Recognition · 📚 Publications & Research
+## 🏅 Awards & Recognition
 
 <table>
 <tr>
 <td valign="top" width="50%">
 
-| | Award | Organization |
+| # | Award | Organization |
 |:---:|:---|:---|
-| 🏅 | **Spotlight Award** | SAP America / SAP Ariba |
-| 🏅 | **Employee of the Month** | SAP CX / Sonata / SPAN |
-| 🏅 | **Thank Award** | SAP Labs |
-| 🏅 | **Explore Possibilities Award** | SAP SE |
-| 🏅 | **Keep the Promise Certificate** | SAP America |
-| 🎓 | **Master's Germany Scholarship** | Fraunhofer Institute |
-| 🎓 | **Prime Minister Scholarship** | Indian Government |
+| 🥇 | **Spotlight Award** | SAP America / SAP Ariba |
+| 🥇 | **Employee of the Month** | SAP CX / Sonata / SPAN |
+| 🥇 | **Thank Award** | SAP Labs |
+| 🥇 | **Explore Possibilities Award** | SAP SE |
 
 </td>
 <td valign="top" width="50%">
 
-| | Publication | Institution |
+| # | Award | Organization |
+|:---:|:---|:---|
+| 🥇 | **Keep the Promise Certificate** | SAP America |
+| 🎖️ | **Master's Germany Scholarship** | Fraunhofer Institute |
+| 🎖️ | **Prime Minister Scholarship** | Indian Government |
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📝 Publications & Research
+
+| # | Publication | Institution |
 |:---:|:---|:---|
 | 📄 | **E-Commerce Services Platform** | Entrepreneurial Product |
 | 📄 | **Hybrid Cloud Security Concepts** | IBM Germany R&D |
 | 📄 | **E-Learning & Assessment Systems** | Fraunhofer IDMT |
 | 📄 | **Internet of Things OROP System** | Fraunhofer IOSB |
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -247,7 +258,7 @@ Driving AI-powered products and enterprise SaaS platforms from concept to global
 
 ---
 
-## 📈 Contribution Graph
+## 📉 Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=veerannas&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
@@ -255,7 +266,7 @@ Driving AI-powered products and enterprise SaaS platforms from concept to global
 
 ---
 
-## 📫 Let's Connect
+## 📬 Let's Connect
 
 <p align="center">
   <a href="mailto:veeranna.job@gmail.com">
