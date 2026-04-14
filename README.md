@@ -46,12 +46,37 @@ Driving AI-powered products and enterprise SaaS platforms from concept to global
 | **SAP Ariba** | Senior Product Manager | 📦 **SAP Business Network (SBN)** |
 | **SAP CX** | Senior Product Manager | 📦 **SAP Sales & Service Cloud (CRM)** |
 
-</div>
-
 ## 🚀 Core Competencies
 
 ## 🧠 Product Management
 `Technical Product Management` `AI Product Management` `Product Ownership` `Portfolio Management` `Product Vision & Strategy` `Roadmap Prioritization` `Go-to-Market Strategy` `Customer Advocacy` `Stakeholder Engagement` `Agile/Scrum` `Program Management` `Risk Mitigation` `Usability Testing` `Data-Driven Decision Making`
+
+## 🏗️ Domain Expertise
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+| Area | Domains |
+|:---|:---|
+| **CRM** | Sales & Service Cloud · CRM · Customer Experience |
+| **ERP & Supply Chain** | S/4HANA · ERP · SCC · eCommerce |
+| **AI & Automation** | AI · ML · RPA · Agentic AI · LLM Workflows |
+| **Cloud & Security** | Cloud Security · IoT · Asset Management |
+
+</td>
+<td valign="top" width="50%">
+
+| Area | Domains |
+|:---|:---|
+| **Software Engineering** | Software Development · Product Support · Web & Mobile Development |
+| **Content & Learning** | CMS · e-Learning · e-Assessment |
+| **Analytics & Quality** | BI Reporting & Analytics · Performance Testing · Build & Migration |
+| **Data & Infrastructure** | Data Engineering · Smart Grids · Big Data |
+
+</td>
+</tr>
+</table>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="24"> Software Development
 
@@ -128,10 +153,8 @@ Driving AI-powered products and enterprise SaaS platforms from concept to global
 ![REST](https://img.shields.io/badge/RESTful-009688?style=flat-square&logo=fastapi&logoColor=white) ![SOAP](https://img.shields.io/badge/SOAP-5A29E4?style=flat-square&logo=webmoney&logoColor=white) ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white) ![gRPC](https://img.shields.io/badge/gRPC-244C5A?style=flat-square&logo=google&logoColor=white) ![Web Services](https://img.shields.io/badge/Web_Services-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 </td>
-</tr>
-<tr>
 <td valign="top" width="50%">
-  
+
 **🧰 Tools & Productivity**
 
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white) ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) ![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=intellijidea&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white) ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
@@ -170,18 +193,6 @@ Driving AI-powered products and enterprise SaaS platforms from concept to global
 
 ---
 
-### 🏗️ Domain Expertise
-
-| Area | Domains |
-|:---|:---|
-| **Enterprise** | ERP (S/4HANA) · CRM (Sales & Service) · HCM |
-| **Supply Chain** | SAP Business Network · SCC · EDI · eCommerce |
-| **AI & Automation** | AI/ML · RPA · Agentic AI · LLM Workflows |
-| **Cloud & Security** | Cloud Security · IoT · Asset Management |
-| **Analytics** | BI & Analytics · Data Engineering · Smart Grids |
-
----
-
 ## 🎓 Education & Certifications
 
 | Type | Details | Institution |
@@ -202,23 +213,25 @@ Driving AI-powered products and enterprise SaaS platforms from concept to global
 <tr>
 <td valign="top" width="50%">
 
-<b>🏆 Awards & Recognition</b><br><br>
-🏅 <b>Spotlight Award</b> — SAP America / SAP Ariba<br>
-🏅 <b>Employee of the Month</b> — SAP CX / Sonata / SPAN<br>
-🏅 <b>Thank Award</b> — SAP Labs<br>
-🏅 <b>Explore Possibilities Award</b> — SAP SE<br>
-🏅 <b>Keep the Promise Certificate</b> — SAP America<br>
-🎓 <b>Master's Germany Scholarship</b> — Fraunhofer Institute<br>
-🎓 <b>Prime Minister Scholarship</b> — Indian Government
+| | Award | Organization |
+|:---:|:---|:---|
+| 🏅 | **Spotlight Award** | SAP America / SAP Ariba |
+| 🏅 | **Employee of the Month** | SAP CX / Sonata / SPAN |
+| 🏅 | **Thank Award** | SAP Labs |
+| 🏅 | **Explore Possibilities Award** | SAP SE |
+| 🏅 | **Keep the Promise Certificate** | SAP America |
+| 🎓 | **Master's Germany Scholarship** | Fraunhofer Institute |
+| 🎓 | **Prime Minister Scholarship** | Indian Government |
 
 </td>
 <td valign="top" width="50%">
 
-<b>📚 Publications & Research</b><br><br>
-📄 <b>E-Commerce Services Platform</b> — Entrepreneurial Product<br>
-📄 <b>Hybrid Cloud Security Concepts</b> — IBM Germany R&D<br>
-📄 <b>E-Learning & Assessment Systems</b> — Fraunhofer IDMT<br>
-📄 <b>Internet of Things OROP System</b> — Fraunhofer IOSB
+| | Publication | Institution |
+|:---:|:---|:---|
+| 📄 | **E-Commerce Services Platform** | Entrepreneurial Product |
+| 📄 | **Hybrid Cloud Security Concepts** | IBM Germany R&D |
+| 📄 | **E-Learning & Assessment Systems** | Fraunhofer IDMT |
+| 📄 | **Internet of Things OROP System** | Fraunhofer IOSB |
 
 </td>
 </tr>
