@@ -36,15 +36,10 @@
 ## 👤 About Me
 Driving AI-powered products and enterprise SaaS platforms from concept to global scale.
 
-| Category | Details |
-|:---|:---|
-| 📍 **Location** | Palo Alto, CA, USA |
-| 🏢 **Work Mode** | Onsite / Hybrid / Remote |
-
-| Company | Role | Product |
-|:---:|:---|:---|
-| **SAP Ariba** | Senior Product Manager | 📦 **SAP Business Network (SBN)** |
-| **SAP CX** | Senior Product Manager | 📦 **SAP Sales & Service Cloud (CRM)** |
+| Category | Details || Company | Role | Product |
+|:---|:---||:---:|:---|:---|
+| 📍 **Location** | Palo Alto, CA, USA || **SAP Ariba** | Senior Product Manager | 📦 **SAP Business Network (SBN)** |
+| 🏢 **Work Mode** | Onsite / Hybrid / Remote || **SAP CX** | Senior Product Manager | 📦 **SAP Sales & Service Cloud (CRM)** |
 
 ---
 
@@ -196,10 +191,6 @@ Driving AI-powered products and enterprise SaaS platforms from concept to global
 
 ---
 
-## 🎓 Education · 🏅 Awards · 📝 Publications
-
-<table>
-<tr>
 <td valign="top" width="50%">
 
 <h3>🎓 Education & Certifications</h3>
@@ -219,28 +210,26 @@ Driving AI-powered products and enterprise SaaS platforms from concept to global
 
 <h3>🏅 Awards & Recognition</h3>
 
-| | Award | Org |
-|:---:|:---|:---|
-| 🥇 | **Spotlight Award** | SAP America |
-| 🥇 | **Employee of the Month** | SAP CX / Sonata |
-| 🥇 | **Thank Award** | SAP Labs |
-| 🥇 | **Explore Possibilities** | SAP SE |
-| 🥇 | **Keep the Promise** | SAP America |
-| 🎖️ | **Master's Scholarship** | Fraunhofer |
-| 🎖️ | **PM Scholarship** | India Govt. |
+| | Award | Organization |
+|:---|:---|
+| 🥇 **Spotlight Award** | SAP America |
+| 🥇 **Employee of the Month** | SAP CX / Sonata |
+| 🥇 **Thank Award** | SAP Labs |
+| 🥇 **Explore Possibilities** | SAP SE |
+| 🥇 **Keep the Promise** | SAP America |
+| 🎖️ **Master's Scholarship** | Fraunhofer |
+| 🎖️ **PM Scholarship** | India Government |
 
 <h3>📝 Publications & Research</h3>
 
-| | Publication | Inst. |
-|:---:|:---|:---|
-| 📄 | **E-Commerce Platform** | Entrepreneurial |
-| 📄 | **Hybrid Cloud Security** | IBM Germany |
-| 📄 | **E-Learning & Assessment** | Fraunhofer IDMT |
-| 📄 | **IoT OROP System** | Fraunhofer IOSB |
+| | Publication | institution |
+|:---|:---|
+| 📄 **E-Commerce Platform** | Entrepreneurial |
+| 📄 **Hybrid Cloud Security** | IBM Germany |
+| 📄 **E-Learning & Assessment** | Fraunhofer IDMT |
+| 📄 **IoT OROP System** | Fraunhofer IOSB |
 
 </td>
-</tr>
-</table>
 
 ---
 
