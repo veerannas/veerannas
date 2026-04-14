@@ -207,7 +207,7 @@ Driving AI-powered products and enterprise SaaS platforms from concept to global
 
 ---
 
-## 🎓 Education · 🏅 Awards · 📝 Publications
+## 🎓 Education · 🏅 Awards
 
 <table>
 <tr>
@@ -239,15 +239,6 @@ Driving AI-powered products and enterprise SaaS platforms from concept to global
 | 🥇 | **Keep the Promise** | SAP America |
 | 🎖️ | **Master's Scholarship** | Fraunhofer |
 | 🎖️ | **PM Scholarship** | India Govt. |
-
-<h3>📝 Publications & Research</h3>
-
-| | Publication | Inst. |
-|:---:|:---|:---|
-| 📄 | **E-Commerce Platform** | Entrepreneurial |
-| 📄 | **Hybrid Cloud Security** | IBM Germany |
-| 📄 | **E-Learning & Assessment** | Fraunhofer IDMT |
-| 📄 | **IoT OROP System** | Fraunhofer IOSB |
 
 </td>
 </tr>
