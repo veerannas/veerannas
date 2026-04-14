@@ -211,42 +211,39 @@ Driving AI-powered products and enterprise SaaS platforms from concept to global
 
 ---
 
-## 🏅 Awards & Recognition
+## 🏅 Awards & Recognition · 📝 Publications
 
 <table>
 <tr>
 <td valign="top" width="50%">
 
-| # | Award | Organization |
+<h3>🏅 Awards & Recognition</h3>
+
+| | Award | Organization |
 |:---:|:---|:---|
-| 🥇 | **Spotlight Award** | SAP America / SAP Ariba |
-| 🥇 | **Employee of the Month** | SAP CX / Sonata / SPAN |
+| 🥇 | **Spotlight Award** | SAP America |
+| 🥇 | **Employee of the Month** | SAP CX / Sonata |
 | 🥇 | **Thank Award** | SAP Labs |
-| 🥇 | **Explore Possibilities Award** | SAP SE |
+| 🥇 | **Explore Possibilities** | SAP SE |
+| 🥇 | **Keep the Promise** | SAP America |
+| 🎖️ | **Master's Scholarship** | Fraunhofer |
+| 🎖️ | **PM Scholarship** | India Govt. |
 
 </td>
 <td valign="top" width="50%">
 
-| # | Award | Organization |
+<h3>📝 Publications & Research</h3>
+
+| | Publication | Institution |
 |:---:|:---|:---|
-| 🥇 | **Keep the Promise Certificate** | SAP America |
-| 🎖️ | **Master's Germany Scholarship** | Fraunhofer Institute |
-| 🎖️ | **Prime Minister Scholarship** | Indian Government |
+| 📄 | **E-Commerce Services Platform** | Entrepreneurial |
+| 📄 | **Hybrid Cloud Security** | IBM Germany R&D |
+| 📄 | **E-Learning & Assessment** | Fraunhofer IDMT |
+| 📄 | **IoT OROP System** | Fraunhofer IOSB |
 
 </td>
 </tr>
 </table>
-
----
-
-## 📝 Publications & Research
-
-| # | Publication | Institution |
-|:---:|:---|:---|
-| 📄 | **E-Commerce Services Platform** | Entrepreneurial Product |
-| 📄 | **Hybrid Cloud Security Concepts** | IBM Germany R&D |
-| 📄 | **E-Learning & Assessment Systems** | Fraunhofer IDMT |
-| 📄 | **Internet of Things OROP System** | Fraunhofer IOSB |
 
 ---
 
