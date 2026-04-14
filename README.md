@@ -206,7 +206,7 @@ Driving AI-powered products and enterprise SaaS platforms from concept to global
 
 | | Details | Institution |
 |:---:|:---|:---|
-| 🎓 | **M.Sc.** Computer & System Eng. (2015) | TU Ilmenau, Germany |
+| 🎓 | **M.Sc.** Computer & System Eng. (2015) | TU Ilmenau |
 | 🎓 | **B.E.** Electronics & Computer Eng. (2010) | VTU, India |
 | 📜 | **PMI-ACP** Agile Certified | PMI |
 | 📜 | **CSPO** Scrum Product Owner | Scrum Alliance |
@@ -219,7 +219,7 @@ Driving AI-powered products and enterprise SaaS platforms from concept to global
 
 <h3>🏅 Awards & Recognition</h3>
 
-| | Award | Organization |
+| | Award | Org |
 |:---:|:---|:---|
 | 🥇 | **Spotlight Award** | SAP America |
 | 🥇 | **Employee of the Month** | SAP CX / Sonata |
@@ -231,10 +231,10 @@ Driving AI-powered products and enterprise SaaS platforms from concept to global
 
 <h3>📝 Publications & Research</h3>
 
-| | Publication | Institution |
+| | Publication | Inst. |
 |:---:|:---|:---|
-| 📄 | **E-Commerce Services Platform** | Entrepreneurial |
-| 📄 | **Hybrid Cloud Security** | IBM Germany R&D |
+| 📄 | **E-Commerce Platform** | Entrepreneurial |
+| 📄 | **Hybrid Cloud Security** | IBM Germany |
 | 📄 | **E-Learning & Assessment** | Fraunhofer IDMT |
 | 📄 | **IoT OROP System** | Fraunhofer IOSB |
 
