@@ -214,14 +214,14 @@ Driving AI-powered products and enterprise SaaS platforms from concept to global
 <h3 align="center">🎓 Education & Certifications</h3>
 
 | | Degree / Certification | Institution |
-|:---:|:---|:---|
-| 🎓 | **M.Sc.** Computer & System Engineering | TU Ilmenau, Germany |
-| 🎓 | **B.E.** Electronics & Computer Engineering | VTU, India |
-| 📜 | **PMI-ACP** — Agile Certified Practitioner | PMI |
-| 📜 | **CSPO** — Certified Scrum Product Owner | Scrum Alliance |
-| 📜 | **SAP CRM** — Sales & Service Cloud | SAP America |
-| 📜 | **SAP Ariba** — SCC Certified | SAP Ariba |
-| 📜 | **SAP RPA** — Robotic Process Automation | SAP America |
+|:---|:---|
+| 🎓 **M.Sc.** Computer & System Engineering | TU Ilmenau, Germany |
+| 🎓 **B.E.** Electronics & Computer Engineering | VTU, India |
+| 📜 **PMI-ACP** — Agile Certified Practitioner | PMI |
+| 📜 **CSPO** — Certified Scrum Product Owner | Scrum Alliance |
+| 📜 **SAP CRM** — Sales & Service Cloud | SAP America |
+| 📜 **SAP Ariba** — SCC Certified | SAP Ariba |
+| 📜 **SAP RPA** — Robotic Process Automation | SAP America |
 
 </td>
 <td valign="top" width="50%">
@@ -229,14 +229,14 @@ Driving AI-powered products and enterprise SaaS platforms from concept to global
 <h3 align="center">🏅 Awards & Recognition</h3>
 
 | | Award | Organization |
-|:---:|:---|:---|
-| 🥇 | **Spotlight Award** | SAP America |
-| 🥇 | **Employee of the Month** | SAP CX / Sonata |
-| 🥇 | **Thank Award** | SAP Labs |
-| 🥇 | **Explore Possibilities Award** | SAP SE |
-| 🥇 | **Keep the Promise Certificate** | SAP America |
-| 🎖️ | **Master's Scholarship** | Fraunhofer |
-| 🎖️ | **PM Scholarship** | India Govt. |
+|:---|:---|
+| 🥇 **Spotlight Award** | SAP America |
+| 🥇 **Employee of the Month** | SAP CX / Sonata |
+| 🥇 **Thank Award** | SAP Labs |
+| 🥇 **Explore Possibilities Award** | SAP SE |
+| 🥇 **Keep the Promise Certificate** | SAP America |
+| 🎖️ **Master's Scholarship** | Fraunhofer |
+| 🎖️ **PM Scholarship** | India Govt. |
 
 </td>
 </tr>
