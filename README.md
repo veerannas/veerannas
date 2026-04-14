@@ -196,24 +196,25 @@ Driving AI-powered products and enterprise SaaS platforms from concept to global
 
 ---
 
-## 🎓 Education & Certifications
-
-| Type | Details | Institution |
-|:---|:---|:---|
-| 🎓 **M.Sc.** | Research in Computer & System Engineering (2015) | TU Ilmenau, Germany |
-| 🎓 **B.E.** | Electronics & Computer Engineering (2010) | VTU, India |
-| 📜 **PMI-ACP** | Agile Certified Professional | Project Management Institute |
-| 📜 **CSPO** | Certified Scrum Product Owner | Scrum Alliance |
-| 📜 **SAP CRM** | Sales & Service Cloud Certified | SAP America |
-| 📜 **SAP Ariba** | SCC Certified | SAP Ariba |
-| 📜 **SAP RPA** | Robotic Process Automation Certified | SAP America |
-
----
-
-## 🏅 Awards & Recognition · 📝 Publications
+## 🎓 Education · 🏅 Awards · 📝 Publications
 
 <table>
 <tr>
+<td valign="top" width="50%">
+
+<h3>🎓 Education & Certifications</h3>
+
+| | Details | Institution |
+|:---:|:---|:---|
+| 🎓 | **M.Sc.** Computer & System Eng. (2015) | TU Ilmenau, Germany |
+| 🎓 | **B.E.** Electronics & Computer Eng. (2010) | VTU, India |
+| 📜 | **PMI-ACP** Agile Certified | PMI |
+| 📜 | **CSPO** Scrum Product Owner | Scrum Alliance |
+| 📜 | **SAP CRM** Sales & Service Cloud | SAP America |
+| 📜 | **SAP Ariba** SCC Certified | SAP Ariba |
+| 📜 | **SAP RPA** Robotic Process Automation | SAP America |
+
+</td>
 <td valign="top" width="50%">
 
 <h3>🏅 Awards & Recognition</h3>
@@ -227,9 +228,6 @@ Driving AI-powered products and enterprise SaaS platforms from concept to global
 | 🥇 | **Keep the Promise** | SAP America |
 | 🎖️ | **Master's Scholarship** | Fraunhofer |
 | 🎖️ | **PM Scholarship** | India Govt. |
-
-</td>
-<td valign="top" width="50%">
 
 <h3>📝 Publications & Research</h3>
 
