@@ -36,7 +36,7 @@
 ## 🧑‍💼 About Me
 Driving AI-powered products and enterprise SaaS platforms from concept to global scale.
 
-Led GTM strategy for B2B SaaS/enterprise platforms generating **$30M+ ARR** and influencing **$42M ARR**. Shipped **14 major features in 12 months** with a 34% adoption increase and 52% faster onboarding. IBM Germany R&D Fellow researching hybrid cloud security (published white paper) and contributor to Fraunhofer Institutes across IoT, smart grids, and manufacturing analytics.
+
 
 | Category | Details |
 |:---|:---|
@@ -44,7 +44,7 @@ Led GTM strategy for B2B SaaS/enterprise platforms generating **$30M+ ARR** and 
 | 🏢 **Work Mode** | Onsite / Hybrid / Remote |
 
 | | Company | Role | Product |
-|:---:|:---|:---|:---|
+|:---:|:---|:---|
 | **SAP Ariba** | Senior Product Manager | 📦 **SAP Business Network (SBN)** |
 | **SAP CX** | Senior Product Manager | 📦 **SAP Sales & Service Cloud (CRM)** |
 
@@ -52,75 +52,11 @@ Led GTM strategy for B2B SaaS/enterprise platforms generating **$30M+ ARR** and 
 
 ## 🚀 Core Competencies
 
-### 🧠 Product & Strategy
-`Technical Product Management` `AI Product Management` `Product Ownership` `Portfolio Management` `Product Vision & Strategy` `Roadmap Prioritization` 
+### 🧠 Product Management
+`Technical Product Management` `AI Product Management` `Product Ownership` `Portfolio Management` `Product Vision & Strategy` `Roadmap Prioritization` `Go-to-Market Strategy` `Customer Advocacy` `Stakeholder Engagement` `Agile/Scrum` `Program Management` `Risk Mitigation` `Usability Testing` `Data-Driven Decision Making`
 
 ### 📣 Go-to-Market & Growth
-`Go-to-Market Strategy` `Customer Advocacy` `Stakeholder Engagement`
-
-### ⚙️ Execution & Delivery
-`Agile/Scrum` `Program Management` `Risk Mitigation` `Usability Testing` `Data-Driven Decision Making`
-
----
-
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Impact at a Glance
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-
-<div align="center">
-
-| Metric | Result |
-|:---|:---|
-| 💰 **Revenue Impact** | **$72M+** across generated & influenced ARR |
-| 🌐 **Global Reach** | **1M+ users** · **100+ enterprise clients** |
-| 🏦 **Payments** | Enterprise systems processing **$20M+ transactions** |
-| 🚀 **Feature Velocity** | **14 major features** in one year — **96% on-time** |
-| ⚡ **Engineering Speed** | **37% faster** dev cycles · **45% faster** deployments |
-| 🤖 **Automation** | **1,200+ staff hours saved** · **60% less** manual effort via RPA & AI testing |
-| 🚗 **Enterprise Clients** | Volkswagen · BMW · Sony · ThyssenKrupp |
-
-</div>
-
-<div align="center">
-
-![Revenue](https://img.shields.io/badge/$72M+-Revenue_Impact-brightgreen?style=for-the-badge)
-![Users](https://img.shields.io/badge/1M+-Global_Users-blue?style=for-the-badge)
-![Speed](https://img.shields.io/badge/45%25-Faster_Deploys-orange?style=for-the-badge)
-![Automation](https://img.shields.io/badge/60%25-Less_Manual_Effort-purple?style=for-the-badge)
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-
----
-
-### 🏗️ Domain Expertise
-
-| Area | Domains |
-|:---|:---|
-| **Enterprise** | ERP (S/4HANA) · CRM (Sales & Service) · HCM |
-| **Supply Chain** | SAP Business Network · SCC · EDI · eCommerce |
-| **AI & Automation** | AI/ML · RPA · Agentic AI · LLM Workflows |
-| **Cloud & Security** | Cloud Security · IoT · Asset Management |
-| **Analytics** | BI & Analytics · Data Engineering · Smart Grids |
-
----
-
-## 🎓 Education & Certifications
-
-| Type | Details | Institution |
-|:---|:---|:---|
-| 🎓 **M.Sc.** | Research in Computer & System Engineering (2015) | TU Ilmenau, Germany |
-| 🎓 **B.E.** | Electronics & Computer Engineering (2010) | VTU, India |
-| 📜 **PMI-ACP** | Agile Certified Professional | Project Management Institute |
-| 📜 **CSPO** | Certified Scrum Product Owner | Scrum Alliance |
-| 📜 **SAP CRM** | Sales & Service Cloud Certified | SAP America |
-| 📜 **SAP Ariba** | SCC Certified | SAP Ariba |
-| 📜 **SAP RPA** | Robotic Process Automation Certified | SAP America |
-
----
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="24"> Languages & Tools
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="24"> Software Development
 
 <table>
 <tr>
@@ -194,13 +130,6 @@ Led GTM strategy for B2B SaaS/enterprise platforms generating **$30M+ ARR** and 
 
 ![REST](https://img.shields.io/badge/RESTful-009688?style=flat-square&logo=fastapi&logoColor=white) ![SOAP](https://img.shields.io/badge/SOAP-5A29E4?style=flat-square&logo=webmoney&logoColor=white) ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white) ![gRPC](https://img.shields.io/badge/gRPC-244C5A?style=flat-square&logo=google&logoColor=white) ![Web Services](https://img.shields.io/badge/Web_Services-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
-**🧪 Testing & QA**
-
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white) ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white) ![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=flat-square&logo=mocha&logoColor=white) ![Cypress](https://img.shields.io/badge/Cypress-69D3A7?style=flat-square&logo=cypress&logoColor=black) ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white) ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
-
-</td>
-<td valign="top" width="50%">
-
 **🧰 Tools & Productivity**
 
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white) ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) ![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=intellijidea&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white) ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
@@ -212,6 +141,64 @@ Led GTM strategy for B2B SaaS/enterprise platforms generating **$30M+ ARR** and 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
+
+
+---
+
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Impact at a Glance
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+<div align="center">
+
+| Metric | Result |
+|:---|:---|
+| 💰 **Revenue Impact** | **$72M+** across generated & influenced ARR |
+| 🌐 **Global Reach** | **1M+ users** · **100+ enterprise clients** |
+| 🏦 **Payments** | Enterprise systems processing **$20M+ transactions** |
+| 🚀 **Feature Velocity** | **14 major features** in one year — **96% on-time** |
+| ⚡ **Engineering Speed** | **37% faster** dev cycles · **45% faster** deployments |
+| 🤖 **Automation** | **1,200+ staff hours saved** · **60% less** manual effort via RPA & AI testing |
+| 🚗 **Enterprise Clients** | Volkswagen · BMW · Sony · ThyssenKrupp |
+
+</div>
+
+<div align="center">
+
+![Revenue](https://img.shields.io/badge/$72M+-Revenue_Impact-brightgreen?style=for-the-badge)
+![Users](https://img.shields.io/badge/1M+-Global_Users-blue?style=for-the-badge)
+![Speed](https://img.shields.io/badge/45%25-Faster_Deploys-orange?style=for-the-badge)
+![Automation](https://img.shields.io/badge/60%25-Less_Manual_Effort-purple?style=for-the-badge)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+---
+
+### 🏗️ Domain Expertise
+
+| Area | Domains |
+|:---|:---|
+| **Enterprise** | ERP (S/4HANA) · CRM (Sales & Service) · HCM |
+| **Supply Chain** | SAP Business Network · SCC · EDI · eCommerce |
+| **AI & Automation** | AI/ML · RPA · Agentic AI · LLM Workflows |
+| **Cloud & Security** | Cloud Security · IoT · Asset Management |
+| **Analytics** | BI & Analytics · Data Engineering · Smart Grids |
+
+---
+
+## 🎓 Education & Certifications
+
+| Type | Details | Institution |
+|:---|:---|:---|
+| 🎓 **M.Sc.** | Research in Computer & System Engineering (2015) | TU Ilmenau, Germany |
+| 🎓 **B.E.** | Electronics & Computer Engineering (2010) | VTU, India |
+| 📜 **PMI-ACP** | Agile Certified Professional | Project Management Institute |
+| 📜 **CSPO** | Certified Scrum Product Owner | Scrum Alliance |
+| 📜 **SAP CRM** | Sales & Service Cloud Certified | SAP America |
+| 📜 **SAP Ariba** | SCC Certified | SAP Ariba |
+| 📜 **SAP RPA** | Robotic Process Automation Certified | SAP America |
 
 ---
 
