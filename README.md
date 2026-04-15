@@ -277,14 +277,6 @@ Driving AI-powered products and enterprise SaaS platforms from concept to global
   </a>
 </p>
 
-<br/>
-
-<p align="center">
-  <b>📍 Palo Alto, CA, USA</b> &nbsp;|&nbsp; <b>✅ Available</b> &nbsp;|&nbsp; <b>🚚 Open to Relocation</b> &nbsp;|&nbsp; <b>🏢 Onsite / Hybrid</b>
-</p>
-
-<br/>
-
 <p align="center">
   <i>⚡ "I bridge the gap between Product Vision and Engineering Execution — I don't just define what to build, I know how to build it."</i>
 </p>
