@@ -1,5 +1,5 @@
 {
-  "version": "alpha-macos-latest",
+  "version": "0.11.212",
   "notes": "Rolling alpha build for OpenWork (macOS arm64).\nEvery merge to `dev` replaces the artifacts attached to this release.\nSubscribe from Settings → Updates → Release channel → Alpha.",
   "pub_date": "2026-04-28T05:50:19Z",
   "platforms": {
@@ -8,7 +8,7 @@
       "url": "https://github.com/different-ai/openwork/releases/download/alpha-macos-latest/openwork-desktop-darwin-aarch64.app.tar.gz"
     },
     "darwin-aarch64-app": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTazRSVVhBTFZIVUR5dkRKeTM0Rk96MnduRTBJOHJnalFZd1d0OTM0Q3habE1wenBmYTZtTFJJeTVLb0g2UFJ3aHFZVDVPQkZpZ0JnT0Y2VnB4a0VpVnNFdVlEckpxU1E0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3MzU1NDE4CWZpbGU6T3BlbldvcmsuYXBwLnRhci5negppeWhuZFAvNVpVNTBhdHhJR24vakRUREg0U2ZvbHFGNFdsaTZsZXF4NWNxNE02Z0dSUGpuY0JxYjc4dGxVVURndzVwV3BKL0NzOUMxbXlMbEFmWXVDZz09Cg==",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTazRSVVhBTFZIVUR5dkRKeTM0Rk96MnduRTBJOHJnalFZd1d0OTM0Q3habE1wenBmYTZtTFJJeTVLb0g2UFJ3aHFZVDVPQkZpZ0JnT0Y2VnB4a0VpVnNFdVlEckpxU1E0PQp0cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTazRSVVhBTFZIVUR5dkRKeTM0Rk96MnduRTBJOHJnalFZd1d0OTM0Q3habE1wenBmYTZtTFJJeTVLb0g2UFJ3aHFZVDVPQkZpZ0JnT0Y2VnB4a0VpVnNFdVlEckpxU1E0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3MzU1NDE4CWZpbGU6T3BlbldvcmsuYXBwLnRhci5negppeWhuZFAvNVpVNTBhdHhJR24vakRUREg0U2ZvbHFGNFdsaTZsZXF4NWNxNE02Z0dSUGpuY0JxYjc4dGxVVURndzVwV3BKL0NzOUMxbXlMbEFmWXVDZz09Cg==",
       "url": "https://github.com/different-ai/openwork/releases/download/alpha-macos-latest/openwork-desktop-darwin-aarch64.app.tar.gz"
     }
   }
