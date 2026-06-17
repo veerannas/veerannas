@@ -20,20 +20,21 @@
   </a>
 </p>
 
-
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## <img src="https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsrounded/person/default/24px.svg" width="20"/> About Me
+
 Driving AI-powered products and enterprise SaaS platforms from concept to global scale.
-## <img src="https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsrounded/folder_special/default/24px.svg" width="20"/> GitHub Repositories
+
+---
+
 ## <img src="https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsrounded/folder_special/default/24px.svg" width="20"/> GitHub Repositories
 
 <table>
 <tr>
-<th width="140">Category</th>
-<th width="170">Repository</th>
-<th width="490">Description</th>
+<th width="150">Category</th>
+<th width="180">Repository</th>
+<th width="470">Description</th>
 </tr>
 <tr><td rowspan="4"><img src="https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsrounded/smart_toy/default/20px.svg" width="16"/> <strong>AI Agents</strong></td>
 <td><a href="https://github.com/veerannas/control-agents">control-agents</a></td><td>Electron app — manage MCP servers, LLM providers, and agent skill sync</td></tr>
@@ -60,16 +61,6 @@ Driving AI-powered products and enterprise SaaS platforms from concept to global
 </table>
 
 ---
-
-
-<tr><td><a href="https://github.com/veerannas/vserv-ux">vserv-ux</a></td><td>Adobe XD — service marketplace design specifications, brand identity, typography scale, and color tokens</td></tr>
-<tr><td><a href="https://github.com/veerannas/rhubs-ux">rhubs-ux</a></td><td>Adobe XD — website wireframes, promotional poster designs, and marketing campaign visual assets</td></tr>
-</table>
-
----
-
-
-
 
 ## <img src="https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsrounded/star/default/24px.svg" width="20"/> Core Competencies
 
