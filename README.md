@@ -57,8 +57,7 @@ Driving AI-powered products and enterprise SaaS platforms from concept to global
 
 ## 🚀 Core Competencies
 
-### 🧠 Product Management
-`Technical Product Management` `AI Product Management` `Product Ownership` `Portfolio Management` `Product Vision & Strategy` `Roadmap Prioritization` `Go-to-Market Strategy` `Customer Advocacy` `Stakeholder Engagement` `Agile/Scrum` `Program Management` `Risk Mitigation` `Usability Testing` `Data-Driven Decision Making`
+`Technical Product Management` `AI Product Development` `Product Ownership` `Portfolio Management` `Product Vision & Strategy` `Roadmap Prioritization` `Go-to-Market Strategy` `Customer Advocacy` `Stakeholder Engagement` `Agile/Scrum` `Risk Mitigation` `Usability Testing` `Data-Driven Decision Making`
 
 ### 🏗️ Domain Expertise
 
