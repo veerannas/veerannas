@@ -1,11 +1,7 @@
 <!-- Header Animation -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20👋,%20I'm%20Veeranna&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%|%20Product%Management%20|%Product%20Development&descSize=18&descColor=ffffff&descAlignY=55" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20👋,%20I'm%20Veeranna&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20|%20Product%20Management%20|%20Product%20Development%20&descSize=18&descColor=ffffff&descAlignY=55" width="100%"/>
 </p>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=2E86C1&center=true&vCenter=true&repeat=true&width=900&height=50&lines=SAP+%7C+IBM+%7C+Bosch+%7C+Fraunhofer" alt="Typing SVG" />
-</p>
-
 <h2 align="center">I bridge the gap between Product Vision and Engineering Execution</h2>
 
 <!-- Social Badges -->
