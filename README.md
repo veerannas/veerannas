@@ -27,7 +27,7 @@
 ## <img src="https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsrounded/person/default/24px.svg" width="20"/> About Me
 Driving AI-powered products and enterprise SaaS platforms from concept to global scale.
 
-## <img src="https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsrounded/folder_special/default/24px.svg" width="20"/> Projects & Repositories
+## <img src="https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsrounded/folder_special/default/24px.svg" width="20"/> GitHub Repositories
 
 <table>
 <tr><th>Category</th><th>Repository</th><th>Description</th></tr>
