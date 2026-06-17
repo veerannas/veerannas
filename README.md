@@ -68,30 +68,16 @@ Driving AI-powered products and enterprise SaaS platforms from concept to global
 
 ### <img src="https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsrounded/domain/default/20px.svg" width="16"/> Domain Expertise
 
-<table>
-<tr>
-<td valign="top" width="50%">
-
 | Area | Domains |
 |:---|:---|
 | **CRM** | Sales & Service Cloud · CRM · Customer Experience |
 | **ERP & Supply Chain** | S/4HANA · ERP · SCC · eCommerce |
 | **AI & Automation** | AI · ML · RPA · Agentic AI · LLM Workflows |
 | **Cloud & Security** | Cloud Security · IoT · Asset Management |
-
-</td>
-<td valign="top" width="50%">
-
-| Area | Domains |
-|:---|:---|
-| **Software Engineering** | Software Development · Product Support · Web & Mobile Dev |
+| **Software Engineering** | Software Development · Product Support · Web & Mobile |
 | **Content & Learning** | CMS · e-Learning · e-Assessment |
-| **Analytics & Quality** | BI Reporting & Analytics · Performance Testing · Build & Migration |
+| **Analytics & Quality** | BI Reporting · Performance Testing · Build & Migration |
 | **Data & Infrastructure** | Data Engineering · Smart Grids · Big Data |
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -209,11 +195,7 @@ Driving AI-powered products and enterprise SaaS platforms from concept to global
 
 ---
 
-<table>
-<tr>
-<td valign="top" width="50%">
-
-<h3 align="center"><img src="https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsrounded/school/default/20px.svg" width="16"/> Education & Certifications</h3>
+### <img src="https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsrounded/school/default/20px.svg" width="16"/> Education & Certifications
 
 | Degree / Certification | Institution |
 |:---|:---|
@@ -225,10 +207,7 @@ Driving AI-powered products and enterprise SaaS platforms from concept to global
 | **SAP Ariba** — SCC Certified | SAP Ariba |
 | **SAP RPA** — Robotic Process Automation | SAP America |
 
-</td>
-<td valign="top" width="50%">
-
-<h3 align="center"><img src="https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsrounded/military_tech/default/20px.svg" width="16"/> Awards & Recognition</h3>
+### <img src="https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsrounded/military_tech/default/20px.svg" width="16"/> Awards & Recognition
 
 | Award | Organization |
 |:---|:---|
@@ -239,10 +218,6 @@ Driving AI-powered products and enterprise SaaS platforms from concept to global
 | **Keep the Promise Certificate** | SAP America |
 | **Master's Scholarship** | Fraunhofer |
 | **PM Scholarship** | India Govt. |
-
-</td>
-</tr>
-</table>
 
 ---
 
