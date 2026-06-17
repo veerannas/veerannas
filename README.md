@@ -88,6 +88,27 @@ Driving AI-powered products and enterprise SaaS platforms from concept to global
 
 ---
 
+## 🛠️ Projects & Repositories
+
+| Repository | Description |
+|:---|:---|
+| [control-agents](https://github.com/veerannas/control-agents) | Electron desktop app for managing AI agent infrastructure — MCP servers, skills, LLM providers |
+| [vwork-agent](https://github.com/veerannas/vwork-agent) | Chrome extension (v13.4) — AI-tailored resume, job discovery, smart form fill, career automation |
+| [ariba-integration-agent](https://github.com/veerannas/ariba-integration-agent) | Chrome extension — EDI/cXML conversion, supplier onboarding, CIG workflow automation for SAP Ariba |
+| [browser-os](https://github.com/veerannas/browser-os) | Agentic browser for AI-powered workflow orchestration via MCP |
+| [linkedIn-apply](https://github.com/veerannas/linkedIn-apply) | Python automation — AI-driven job applications with offline LLMs (Ollama) |
+| [local-n8n](https://github.com/veerannas/local-n8n) | Self-hosted n8n workflow automation integrated with AI control agents |
+| [vserv-ui](https://github.com/veerannas/vserv-ui) | Next.js/TypeScript — Multi-vertical service marketplace frontend |
+| [vserv-core](https://github.com/veerannas/vserv-core) | Spring Boot — Service marketplace backend (reservations, reviews, multi-industry) |
+| [vtaxer-core](https://github.com/veerannas/vtaxer-core) | Spring Boot — Tax filing backend (documents, deductions, admin workflows) |
+| [vtaxer-ui](https://github.com/veerannas/vtaxer-ui) | React — Tax filing frontend (customer & admin dashboards) |
+| [vcodify-ui](https://github.com/veerannas/vcodify-ui) | Next.js — Developer consultancy portfolio & services website |
+| [reservehubs-ui](https://github.com/veerannas/reservehubs-ui) | Next.js — ReserveHubs platform UI |
+| [reservehubs-core](https://github.com/veerannas/reservehubs-core) | Spring Boot — ReserveHubs platform backend |
+| [rhubs-ui](https://github.com/veerannas/rhubs-ui) | React — RHubs marketing website |
+
+---
+
 ## 💻 Software Development
 
 <table>
