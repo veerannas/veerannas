@@ -26,37 +26,36 @@
 
 ## <img src="https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsrounded/person/default/24px.svg" width="20"/> About Me
 Driving AI-powered products and enterprise SaaS platforms from concept to global scale.
-
 ## <img src="https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsrounded/folder_special/default/24px.svg" width="20"/> GitHub Repositories
 
 <table>
 <tr><th>Category</th><th>Repository</th><th>Description</th></tr>
 <tr><td rowspan="4"><img src="https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsrounded/smart_toy/default/20px.svg" width="16"/> <strong>AI Agents</strong></td>
-<td><a href="https://github.com/veerannas/control-agents">control-agents</a></td><td>Electron app — manage MCP servers, LLM providers, agent skills</td></tr>
-<tr><td><a href="https://github.com/veerannas/vwork-agent">vwork-agent</a></td><td>Chrome extension — AI resume tailoring, job discovery, form automation</td></tr>
+<td><a href="https://github.com/veerannas/control-agents">control-agents</a></td><td>Electron app — MCP server management, LLM provider config, agent skill sync</td></tr>
+<tr><td><a href="https://github.com/veerannas/vwork-agent">vwork-agent</a></td><td>Chrome extension — AI resume tailoring, job discovery, multi-ATS form automation</td></tr>
 <tr><td><a href="https://github.com/veerannas/ariba-integration-agent">ariba-integration-agent</a></td><td>Chrome extension — EDI/cXML mapping, supplier onboarding for SAP Ariba</td></tr>
-<tr><td><a href="https://github.com/veerannas/browser-os">browser-os</a></td><td>Agentic browser for AI workflow orchestration via MCP</td></tr>
+<tr><td><a href="https://github.com/veerannas/browser-os">browser-os</a></td><td>Agentic browser for AI workflow orchestration via MCP protocol</td></tr>
 <tr><td rowspan="2"><img src="https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsrounded/automation/default/20px.svg" width="16"/> <strong>Automation</strong></td>
-<td><a href="https://github.com/veerannas/linkedIn-apply">linkedIn-apply</a></td><td>Python — AI job applications with offline LLMs (Ollama)</td></tr>
-<tr><td><a href="https://github.com/veerannas/local-n8n">local-n8n</a></td><td>Self-hosted n8n workflow engine for agent orchestration</td></tr>
-<tr><td rowspan="4"><img src="https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsrounded/storefront/default/20px.svg" width="16"/> <strong>Platforms</strong></td>
-<td><a href="https://github.com/veerannas/vserv-ui">vserv-ui</a></td><td>Next.js/TS — Multi-vertical service marketplace frontend</td></tr>
-<tr><td><a href="https://github.com/veerannas/vserv-core">vserv-core</a></td><td>Spring Boot — Marketplace backend (reservations, reviews)</td></tr>
-<tr><td><a href="https://github.com/veerannas/reservehubs-ui">reservehubs-ui</a></td><td>Next.js — ReserveHubs platform UI</td></tr>
-<tr><td><a href="https://github.com/veerannas/reservehubs-core">reservehubs-core</a></td><td>Spring Boot — ReserveHubs platform backend</td></tr>
-<tr><td rowspan="4"><img src="https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsrounded/code/default/20px.svg" width="16"/> <strong>Web Apps</strong></td>
-<td><a href="https://github.com/veerannas/vtaxer-core">vtaxer-core</a></td><td>Spring Boot — Tax filing backend (documents, deductions)</td></tr>
+<td><a href="https://github.com/veerannas/linkedIn-apply">linkedIn-apply</a></td><td>Python — AI job applications with offline LLMs (Ollama) and browser automation</td></tr>
+<tr><td><a href="https://github.com/veerannas/local-n8n">local-n8n</a></td><td>Self-hosted n8n workflow engine for agent orchestration (400+ integrations)</td></tr>
+<tr><td rowspan="5"><img src="https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsrounded/storefront/default/20px.svg" width="16"/> <strong>Platforms</strong></td>
+<td><a href="https://github.com/veerannas/reservehubs-ui">reservehubs-ui</a></td><td>Next.js/TS — Multi-vertical service marketplace frontend</td></tr>
+<tr><td><a href="https://github.com/veerannas/reservehubs-core">reservehubs-core</a></td><td>Spring Boot/MongoDB — Marketplace backend (bookings, reviews, multi-vertical)</td></tr>
+<tr><td><a href="https://github.com/veerannas/vserv-ui">vserv-ui</a></td><td>Next.js/TS — Service marketplace frontend (search, booking, dashboards)</td></tr>
+<tr><td><a href="https://github.com/veerannas/vserv-core">vserv-core</a></td><td>Spring Boot/MongoDB — Service marketplace backend (reservations, ratings)</td></tr>
+<tr><td><a href="https://github.com/veerannas/rhubs-ui">rhubs-ui</a></td><td>Next.js/TS — Marketing website with JSON-driven content config</td></tr>
+<tr><td rowspan="3"><img src="https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsrounded/code/default/20px.svg" width="16"/> <strong>Web Apps</strong></td>
+<td><a href="https://github.com/veerannas/vtaxer-core">vtaxer-core</a></td><td>Spring Boot/MongoDB — Tax filing backend (documents, deductions, multi-tenant)</td></tr>
 <tr><td><a href="https://github.com/veerannas/vtaxer-ui">vtaxer-ui</a></td><td>React — Tax filing frontend (customer & admin dashboards)</td></tr>
-<tr><td><a href="https://github.com/veerannas/vcodify-ui">vcodify-ui</a></td><td>Next.js — Developer consultancy & services website</td></tr>
-<tr><td><a href="https://github.com/veerannas/rhubs-ui">rhubs-ui</a></td><td>React — RHubs marketing website</td></tr>
+<tr><td><a href="https://github.com/veerannas/vcodify-ui">vcodify-ui</a></td><td>Next.js — Portfolio web application with SSR and media pipeline</td></tr>
+<tr><td rowspan="3"><img src="https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsrounded/palette/default/20px.svg" width="16"/> <strong>UX Design</strong></td>
+<td><a href="https://github.com/veerannas/reservehubs-ux">reservehubs-ux</a></td><td>Adobe XD — Full platform design specs, all screens, responsive breakpoints</td></tr>
+<tr><td><a href="https://github.com/veerannas/vserv-ux">vserv-ux</a></td><td>Adobe XD — Service marketplace design system and brand identity</td></tr>
+<tr><td><a href="https://github.com/veerannas/rhubs-ux">rhubs-ux</a></td><td>Adobe XD — Website design, promotional posters, campaign visuals</td></tr>
 </table>
 
 ---
 
-
-
-
----
 
 ## <img src="https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsrounded/star/default/24px.svg" width="20"/> Core Competencies
 
