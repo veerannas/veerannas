@@ -27,26 +27,34 @@
 ## About Me
 Driving AI-powered products and enterprise SaaS platforms from concept to global scale.
 
+## Projects & Repositories
+
 <table>
-<tr>
-<td valign="top" width="35%">
-
-| Category | Details |
-|:---|:---|
-| **Location** | Palo Alto, CA, USA |
-| **Work Mode** | Onsite / Hybrid / Remote |
-
-</td>
-<td valign="top" width="65%">
-
-| Company | Role | Product |
-|:---:|:---|:---|
-| **SAP Ariba** | Senior Product Manager | 📦 **SAP Business Network (SBN)** |
-| **SAP CX** | Senior Product Manager | 📦 **SAP Sales & Service Cloud (CRM)** |
-
-</td>
-</tr>
+<tr><th>Category</th><th>Repository</th><th>Description</th></tr>
+<tr><td rowspan="4"><img src="https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsrounded/smart_toy/default/20px.svg" width="16"/> <strong>AI Agents</strong></td>
+<td><a href="https://github.com/veerannas/control-agents">control-agents</a></td><td>Electron app — manage MCP servers, LLM providers, agent skills</td></tr>
+<tr><td><a href="https://github.com/veerannas/vwork-agent">vwork-agent</a></td><td>Chrome extension — AI resume tailoring, job discovery, form automation</td></tr>
+<tr><td><a href="https://github.com/veerannas/ariba-integration-agent">ariba-integration-agent</a></td><td>Chrome extension — EDI/cXML mapping, supplier onboarding for SAP Ariba</td></tr>
+<tr><td><a href="https://github.com/veerannas/browser-os">browser-os</a></td><td>Agentic browser for AI workflow orchestration via MCP</td></tr>
+<tr><td rowspan="2"><img src="https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsrounded/automation/default/20px.svg" width="16"/> <strong>Automation</strong></td>
+<td><a href="https://github.com/veerannas/linkedIn-apply">linkedIn-apply</a></td><td>Python — AI job applications with offline LLMs (Ollama)</td></tr>
+<tr><td><a href="https://github.com/veerannas/local-n8n">local-n8n</a></td><td>Self-hosted n8n workflow engine for agent orchestration</td></tr>
+<tr><td rowspan="4"><img src="https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsrounded/storefront/default/20px.svg" width="16"/> <strong>Platforms</strong></td>
+<td><a href="https://github.com/veerannas/vserv-ui">vserv-ui</a></td><td>Next.js/TS — Multi-vertical service marketplace frontend</td></tr>
+<tr><td><a href="https://github.com/veerannas/vserv-core">vserv-core</a></td><td>Spring Boot — Marketplace backend (reservations, reviews)</td></tr>
+<tr><td><a href="https://github.com/veerannas/reservehubs-ui">reservehubs-ui</a></td><td>Next.js — ReserveHubs platform UI</td></tr>
+<tr><td><a href="https://github.com/veerannas/reservehubs-core">reservehubs-core</a></td><td>Spring Boot — ReserveHubs platform backend</td></tr>
+<tr><td rowspan="4"><img src="https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsrounded/code/default/20px.svg" width="16"/> <strong>Web Apps</strong></td>
+<td><a href="https://github.com/veerannas/vtaxer-core">vtaxer-core</a></td><td>Spring Boot — Tax filing backend (documents, deductions)</td></tr>
+<tr><td><a href="https://github.com/veerannas/vtaxer-ui">vtaxer-ui</a></td><td>React — Tax filing frontend (customer & admin dashboards)</td></tr>
+<tr><td><a href="https://github.com/veerannas/vcodify-ui">vcodify-ui</a></td><td>Next.js — Developer consultancy & services website</td></tr>
+<tr><td><a href="https://github.com/veerannas/rhubs-ui">rhubs-ui</a></td><td>React — RHubs marketing website</td></tr>
 </table>
+
+---
+
+
+
 
 ---
 
@@ -80,27 +88,6 @@ Driving AI-powered products and enterprise SaaS platforms from concept to global
 </td>
 </tr>
 </table>
-
----
-
-## Projects & Repositories
-
-| Repository | Description |
-|:---|:---|
-| [control-agents](https://github.com/veerannas/control-agents) | Electron desktop app for managing AI agent infrastructure — MCP servers, skills, LLM providers |
-| [vwork-agent](https://github.com/veerannas/vwork-agent) | Chrome extension (v13.4) — AI-tailored resume, job discovery, smart form fill, career automation |
-| [ariba-integration-agent](https://github.com/veerannas/ariba-integration-agent) | Chrome extension — EDI/cXML conversion, supplier onboarding, CIG workflow automation for SAP Ariba |
-| [browser-os](https://github.com/veerannas/browser-os) | Agentic browser for AI-powered workflow orchestration via MCP |
-| [linkedIn-apply](https://github.com/veerannas/linkedIn-apply) | Python automation — AI-driven job applications with offline LLMs (Ollama) |
-| [local-n8n](https://github.com/veerannas/local-n8n) | Self-hosted n8n workflow automation integrated with AI control agents |
-| [vserv-ui](https://github.com/veerannas/vserv-ui) | Next.js/TypeScript — Multi-vertical service marketplace frontend |
-| [vserv-core](https://github.com/veerannas/vserv-core) | Spring Boot — Service marketplace backend (reservations, reviews, multi-industry) |
-| [vtaxer-core](https://github.com/veerannas/vtaxer-core) | Spring Boot — Tax filing backend (documents, deductions, admin workflows) |
-| [vtaxer-ui](https://github.com/veerannas/vtaxer-ui) | React — Tax filing frontend (customer & admin dashboards) |
-| [vcodify-ui](https://github.com/veerannas/vcodify-ui) | Next.js — Developer consultancy portfolio & services website |
-| [reservehubs-ui](https://github.com/veerannas/reservehubs-ui) | Next.js — ReserveHubs platform UI |
-| [reservehubs-core](https://github.com/veerannas/reservehubs-core) | Spring Boot — ReserveHubs platform backend |
-| [rhubs-ui](https://github.com/veerannas/rhubs-ui) | React — RHubs marketing website |
 
 ---
 
