@@ -275,10 +275,6 @@ Driving AI-powered products and enterprise SaaS platforms from concept to global
   </a>
 </p>
 
-<p align="center">
-  <i>"Bridging Product Vision and Engineering Execution — I don't just define what to build, I know how to build it."</i>
-</p>
-
 ---
 
 <p align="center">
