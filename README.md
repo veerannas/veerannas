@@ -168,32 +168,6 @@ Driving AI-powered products and enterprise SaaS platforms from concept to global
 
 ---
 
-## <img src="https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsrounded/trending_up/default/24px.svg" width="20"/> Impact at a Glance
-
-<div align="center">
-
-| Metric | Result |
-|:---|:---|
-| **Revenue Impact** | **$72M+** across generated & influenced ARR |
-| **Global Reach** | **1M+ users** · **100+ enterprise clients** |
-| **Payments** | Enterprise systems processing **$20M+ transactions** |
-| **Feature Velocity** | **14 major features** in one year — **96% on-time** |
-| **Engineering Speed** | **37% faster** dev cycles · **45% faster** deployments |
-| **Automation** | **1,200+ staff hours saved** · **60% less** manual effort via RPA & AI testing |
-| **Enterprise Clients** | Volkswagen · BMW · Sony · ThyssenKrupp |
-
-</div>
-
-<div align="center">
-
-![Revenue](https://img.shields.io/badge/$72M+-Revenue_Impact-brightgreen?style=for-the-badge)
-![Users](https://img.shields.io/badge/1M+-Global_Users-blue?style=for-the-badge)
-![Speed](https://img.shields.io/badge/45%25-Faster_Deploys-orange?style=for-the-badge)
-![Automation](https://img.shields.io/badge/60%25-Less_Manual_Effort-purple?style=for-the-badge)
-
-</div>
-
----
 
 ### <img src="https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsrounded/school/default/20px.svg" width="16"/> Education & Certifications
 
@@ -218,6 +192,15 @@ Driving AI-powered products and enterprise SaaS platforms from concept to global
 | **Keep the Promise Certificate** | SAP America |
 | **Master's Scholarship** | Fraunhofer |
 | **PM Scholarship** | India Govt. |
+
+<div align="center">
+
+![Revenue](https://img.shields.io/badge/$72M+-Revenue_Impact-brightgreen?style=for-the-badge)
+![Users](https://img.shields.io/badge/1M+-Global_Users-blue?style=for-the-badge)
+![Speed](https://img.shields.io/badge/45%25-Faster_Deploys-orange?style=for-the-badge)
+![Automation](https://img.shields.io/badge/60%25-Less_Manual_Effort-purple?style=for-the-badge)
+
+</div>
 
 ---
 
