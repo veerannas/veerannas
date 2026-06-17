@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=140&section=header&text=Veeranna%20Sulikeri&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20|%20Product%20Management%20|%20Product%20Development%20&descSize=18&descColor=ffffff&descAlignY=55" width="100%"/>
 </p>
-<h2 align="center">I bridge the gap between Product Vision and Engineering Execution</h2>
+<h2 align="center">Bridging Product Vision and Engineering Execution</h2>
 
 <!-- Social Badges -->
 <p align="center">
@@ -276,7 +276,7 @@ Driving AI-powered products and enterprise SaaS platforms from concept to global
 </p>
 
 <p align="center">
-  <i>"I bridge the gap between Product Vision and Engineering Execution — I don't just define what to build, I know how to build it."</i>
+  <i>"Bridging Product Vision and Engineering Execution — I don't just define what to build, I know how to build it."</i>
 </p>
 
 ---
