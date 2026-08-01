@@ -39,7 +39,7 @@ Driving AI-powered products and enterprise SaaS platforms from concept to global
 <tr><td rowspan="5"><img src="https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsrounded/smart_toy/default/20px.svg" width="16"/> <strong>AI Agents</strong></td>
 <td><a href="https://github.com/veerannas/control-agents">control-agents</a> (private)</td><td>Electron app — manage MCP servers, LLM providers, and agent skill sync</td></tr>
 <tr><td><a href="https://github.com/veerannas/vwork-agent">vwork-agent</a> (private)</td><td>Chrome extension — AI resume tailoring, job discovery, multi-ATS form automation</td></tr>
-<tr><td><a href="https://github.com/veerannas/ariba-integration-agent">ariba-integration-agent</a></td><td>Chrome extension — EDI/cXML mapping and supplier onboarding for SAP Ariba</td></tr>
+<tr><td><a href="https://github.com/veerannas/ariba-integration-agent">ariba-integration-agent</a> (private)</td><td>Chrome extension — EDI/cXML mapping and supplier onboarding for SAP Ariba</td></tr>
 <tr><td><a href="https://github.com/veerannas/browser-os">browser-os</a></td><td>Agentic browser for AI workflow orchestration via MCP protocol</td></tr>
 <tr><td><a href="https://github.com/veerannas/workforce-planning-agent">workforce-planning-agent</a></td><td>AI-powered workforce planning agent — role-scoped analysis, FastAPI + React, deployed on SAP BTP Cloud Foundry</td></tr>
 <tr><td rowspan="2"><img src="https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsrounded/automation/default/20px.svg" width="16"/> <strong>Automation</strong></td>
