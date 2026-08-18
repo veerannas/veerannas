@@ -42,8 +42,7 @@ Driving AI-powered products and enterprise SaaS platforms from concept to global
 <tr><td><a href="https://github.com/veerannas/ariba-integration-agent">ariba-integration-agent</a> </td><td>Chrome extension — EDI/cXML mapping and supplier onboarding for SAP Ariba</td></tr>
 <tr><td><a href="https://github.com/veerannas/browser-os">browser-os</a></td><td>Agentic browser for AI workflow orchestration via MCP protocol</td></tr>
 <tr><td><a href="https://github.com/veerannas/workforce-planning-agent">workforce-planning-agent</a></td><td>AI-powered workforce planning agent — role-scoped analysis, FastAPI + React, deployed on SAP BTP Cloud Foundry</td></tr>
-<tr><td rowspan="2"><img src="https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsrounded/automation/default/20px.svg" width="16"/> <strong>Automation</strong></td>
-<td><a href="https://github.com/veerannas/linkedIn-apply">linkedIn-apply</a></td><td>Python — AI job applications with offline LLMs (Ollama) and browser automation</td></tr>
+<tr><td rowspan="2"><img src="https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsrounded/automation/default/20px.svg" width="16"/> <strong>Automation</strong></td></tr>
 <tr><td><a href="https://github.com/veerannas/local-n8n">local-n8n</a></td><td>Self-hosted n8n workflow engine for agent orchestration with 400+ integrations</td></tr>
 <tr><td rowspan="5"><img src="https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsrounded/storefront/default/20px.svg" width="16"/> <strong>Platforms</strong></td>
 <td><a href="https://github.com/veerannas/reservehubs-ui">reservehubs-ui</a></td><td>Next.js/TS — multi-vertical marketplace frontend with booking and dashboards</td></tr>
