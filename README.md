@@ -1,8 +1,8 @@
 <!-- Header Animation -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=140&section=header&text=Veeranna%20Sulikeri&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20|%20Product%20Development%20&descSize=18&descColor=ffffff&descAlignY=55" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=140&section=header&text=Veeranna%20Sulikeri&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Principal%20FDE%20%26%20AI%20Engineering%20Lead%20%7C%20SAP%20Labs%20AI%20CTO%20Office&descSize=18&descColor=ffffff&descAlignY=55" width="100%"/>
 </p>
-<h2 align="center">Bridging Product Vision and Engineering Execution</h2>
+<h3 align="center">Principal Forward Deployed Engineer &amp; AI Engineering Lead &nbsp;·&nbsp; SAP Labs — SAP AI CTO Office</h3>
 
 <!-- Social Badges -->
 <p align="center">
@@ -24,7 +24,11 @@
 
 ## <img src="https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsrounded/person/default/24px.svg" width="20"/> About Me
 
-Driving AI-powered products and enterprise SaaS platforms from concept to global scale.
+Principal Forward Deployed Engineer & AI Engineering Lead at **SAP Labs — SAP AI CTO Office**, with 16+ years at SAP, IBM, and Bosch architecting and shipping production multi-agent AI systems for enterprise clients across finance, supply chain, and procurement.
+
+Hands-on builder of 5 production agentic AI systems — AgentSync, Workforce Planning Agent, VWork, Ariba Integration Agent, and AIRE Dashboard — using multi-agent orchestration, MCP, LLMs, RAG, and evaluation harnesses. Expert in end-to-end agentic AI delivery: system design, containerization, guardrails, cost & latency optimization, CI/CD eval gates, and production ops across Python, LangGraph, CrewAI, SAP BTP, Joule, and S/4HANA.
+
+**GreenCard — No Sponsorship Required** · Open to relocation, onsite, or hybrid.
 
 ---
 
