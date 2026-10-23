@@ -239,15 +239,11 @@ Driving AI-powered products and enterprise SaaS platforms from concept to global
 ## <img src="https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsrounded/analytics/default/24px.svg" width="20"/> GitHub Analytics
 
 <p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=veerannas&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=veerannas&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
-
----
-
-## <img src="https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsrounded/show_chart/default/24px.svg" width="20"/> Contribution Graph
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=veerannas&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=veerannas&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
 </p>
 
 ---
