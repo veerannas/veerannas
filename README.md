@@ -1,6 +1,6 @@
 <!-- Header Animation -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=140&section=header&text=Veeranna%20Sulikeri&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20|%20Product%20Management%20|%20Product%20Development%20&descSize=18&descColor=ffffff&descAlignY=55" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=140&section=header&text=Veeranna%20Sulikeri&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20|%20Product%20Development%20&descSize=18&descColor=ffffff&descAlignY=55" width="100%"/>
 </p>
 <h2 align="center">Bridging Product Vision and Engineering Execution</h2>
 
