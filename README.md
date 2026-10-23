@@ -242,9 +242,6 @@ Hands-on builder of 5 production agentic AI systems — AgentSync, Workforce Pla
 ## <img src="https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsrounded/analytics/default/24px.svg" width="20"/> GitHub Analytics
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=veerannas&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="GitHub Trophies"/>
-</p>
-<p align="center">
   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=veerannas&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
