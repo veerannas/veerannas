@@ -50,10 +50,11 @@ Driving AI-powered products and enterprise SaaS platforms from concept to global
 <tr><td><a href="https://github.com/veerannas/vserv-ui">vserv-ui</a></td><td>Next.js/TS — service marketplace frontend (search, booking, profiles)</td></tr>
 <tr><td><a href="https://github.com/veerannas/vserv-core">vserv-core</a> (private)</td><td>Spring Boot/MongoDB — service marketplace backend (bookings, ratings, menus)</td></tr>
 <tr><td><a href="https://github.com/veerannas/rhubs-ui">rhubs-ui</a></td><td>Next.js/TS — marketing website with JSON-driven content configuration</td></tr>
-<tr><td rowspan="3"><img src="https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsrounded/code/default/20px.svg" width="16"/> <strong>Web Apps</strong></td>
+<tr><td rowspan="4"><img src="https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsrounded/code/default/20px.svg" width="16"/> <strong>Web Apps</strong></td>
 <td><a href="https://github.com/veerannas/vtaxer-core">vtaxer-core</a></td><td>Spring Boot/MongoDB — tax filing backend (documents, deductions, multi-tenant)</td></tr>
 <tr><td><a href="https://github.com/veerannas/vtaxer-ui">vtaxer-ui</a></td><td>React — tax filing frontend with customer and admin dashboards</td></tr>
 <tr><td><a href="https://github.com/veerannas/vcodify-ui">vcodify-ui</a></td><td>Next.js — portfolio web app with SSR and media optimization pipeline</td></tr>
+<tr><td><a href="https://github.com/veerannas/job-dashboard">job-dashboard</a></td><td>FastAPI + React 18/TS — job board with Muse API proxy, personalised scoring, and localStorage bookmarks</td></tr>
 <tr><td rowspan="3"><img src="https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsrounded/palette/default/20px.svg" width="16"/> <strong>UX Design</strong></td>
 <td><a href="https://github.com/veerannas/reservehubs-ux">reservehubs-ux</a></td><td>Adobe XD — full platform design specs, all screens, responsive breakpoints</td></tr>
 <tr><td><a href="https://github.com/veerannas/vserv-ux">vserv-ux</a></td><td>Adobe XD — service marketplace design system and brand identity</td></tr>
