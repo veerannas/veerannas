@@ -65,7 +65,7 @@ Driving AI-powered products and enterprise SaaS platforms from concept to global
 
 ## <img src="https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsrounded/star/default/24px.svg" width="20"/> Core Competencies
 
-`Technical Product Management` `AI Product Development` `AI FDE` `Agentic AI Development` `LLM Integration` `AI Product Strategy` `Product Ownership` `Portfolio Management` `Product Vision & Strategy` `Roadmap Prioritization` `Go-to-Market Strategy` `Cross-Functional Leadership` `OKR Planning` `Backlog Management` `Customer Advocacy` `Stakeholder Engagement` `Agile/Scrum` `Risk Mitigation` `Usability Testing` `Data-Driven Decision Making`
+`Technical Product Management` `AI Product Development` `AI FDE` `Agentic AI Development` `LLM Integration` `AI Product Strategy` `Roadmap Prioritization` `Go-to-Market Strategy` `Cross-Functional Leadership` `Customer Advocacy` `Stakeholder Engagement` `Agile/Scrum` `Risk Mitigation` `Usability Testing` `Data-Driven Decision Making`
 
 ### <img src="https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsrounded/domain/default/20px.svg" width="16"/> Domain Expertise
 
