@@ -40,7 +40,7 @@ Hands-on builder of 5 production agentic AI systems — AgentSync, Workforce Pla
 <th width="470">Description</th>
 </tr>
 <tr><td rowspan="5"><img src="https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsrounded/smart_toy/default/20px.svg" width="16"/> <strong>AI Agents</strong></td>
-<td><a href="https://github.com/veerannas/control-agents">control-agents</a> (private)</td><td>Electron app — manage MCP servers, LLM providers, and agent skill sync</td></tr>
+<td><a href="https://github.com/veerannas/agentsync-agent">agentsync-agent</a> (private)</td><td>AgentSync — multi-agent orchestration, MCP registry and token management</td></tr>
 <tr><td><a href="https://github.com/veerannas/vwork-agent">vwork-agent</a> (private)</td><td>Chrome extension — AI resume tailoring, job discovery, multi-ATS form automation</td></tr>
 <tr><td><a href="https://github.com/veerannas/ariba-integration-agent">ariba-integration-agent</a> </td><td>Chrome extension — EDI/cXML mapping and supplier onboarding for SAP Ariba</td></tr>
 <tr><td><a href="https://github.com/veerannas/browser-os">browser-os</a></td><td>Agentic browser for AI workflow orchestration via MCP protocol</td></tr>
@@ -269,3 +269,4 @@ Hands-on builder of 5 production agentic AI systems — AgentSync, Workforce Pla
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
 </p>
+
